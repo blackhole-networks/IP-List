@@ -6,3 +6,14 @@
 165.154.100.58 | Country: PH | Confidence: 100% | Reason: Malicious Activity
 58.97.171.115 | Country: PH | Confidence: 100% | Reason: Malicious Activity
 58.69.1.51 | Country: PH | Confidence: 100% | Reason: Malicious Activity
+165.154.100.42 | Country: PH | Confidence: 100% | Reason: Malicious Activity
+58.69.56.44 | Country: PH | Confidence: 100% | Reason: Malicious Activity
+103.62.153.11 | Country: PH | Confidence: 100% | Reason: Malicious Activity
+202.69.171.60 | Country: PH | Confidence: 100% | Reason: Malicious Activity
+61.28.144.154 | Country: PH | Confidence: 100% | Reason: Malicious Activity
+165.154.59.118 | Country: PH | Confidence: 100% | Reason: Malicious Activity
+161.49.89.39 | Country: PH | Confidence: 100% | Reason: Malicious Activity
+112.204.168.183 | Country: PH | Confidence: 100% | Reason: Malicious Activity
+154.18.197.35 | Country: PH | Confidence: 100% | Reason: Malicious Activity
+103.49.146.174 | Country: PH | Confidence: 100% | Reason: Malicious Activity
+103.17.149.116 | Country: PH | Confidence: 100% | Reason: Malicious Activity
