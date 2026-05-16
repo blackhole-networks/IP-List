@@ -1,0 +1,10 @@
+190.129.122.12 | Reason: Reported Malicious Activity
+181.188.176.245 | Reason: Reported Malicious Activity
+200.105.141.172 | Reason: Reported Malicious Activity
+190.181.25.210 | Reason: Reported Malicious Activity
+200.105.172.184 | Reason: Reported Malicious Activity
+190.129.122.185 | Reason: Reported Malicious Activity
+181.115.208.154 | Reason: Reported Malicious Activity
+181.188.187.140 | Reason: Reported Malicious Activity
+181.115.146.26 | Reason: Reported Malicious Activity
+190.181.27.27 | Reason: Reported Malicious Activity
