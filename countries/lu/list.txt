@@ -1,5 +1,5 @@
-107.189.3.94 | Reason: Reported Malicious Activity
-107.189.5.104 | Reason: Reported Malicious Activity
-104.244.79.40 | Reason: Reported Malicious Activity
-107.189.5.183 | Reason: Reported Malicious Activity
-207.188.158.216 | Reason: Reported Malicious Activity
+194.147.93.208 | Country: LU | Confidence: 100% | Reason: Malicious Activity
+64.89.160.82 | Country: LU | Confidence: 100% | Reason: Malicious Activity
+46.151.182.107 | Country: LU | Confidence: 100% | Reason: Malicious Activity
+46.151.182.191 | Country: LU | Confidence: 100% | Reason: Malicious Activity
+46.151.182.220 | Country: LU | Confidence: 100% | Reason: Malicious Activity
