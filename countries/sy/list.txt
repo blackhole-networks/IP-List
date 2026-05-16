@@ -1,4 +1,1 @@
-185.216.134.126 | Reason: Reported Malicious Activity
-185.225.41.192 | Reason: Reported Malicious Activity
-82.97.215.105 | Reason: Reported Malicious Activity
-91.144.21.210 | Reason: Reported Malicious Activity
+193.43.149.72 | Country: SY | Confidence: 100% | Reason: Malicious Activity
