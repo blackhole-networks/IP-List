@@ -1,14 +1,6 @@
-80.179.17.52 | Reason: Reported Malicious Activity
-149.50.114.248 | Reason: Reported Malicious Activity
-149.88.22.173 | Reason: Reported Malicious Activity
-46.210.95.88 | Reason: Reported Malicious Activity
-87.71.114.139 | Reason: Reported Malicious Activity
-87.70.133.139 | Reason: Reported Malicious Activity
-82.80.253.21 | Reason: Reported Malicious Activity
-82.102.149.88 | Reason: Reported Malicious Activity
-2.55.88.51 | Reason: Reported Malicious Activity
-2.54.97.134 | Reason: Reported Malicious Activity
-82.102.165.200 | Reason: Reported Malicious Activity
-2.55.69.224 | Reason: Reported Malicious Activity
-2.55.122.202 | Reason: Reported Malicious Activity
-213.8.9.111 | Reason: Reported Malicious Activity
+2.55.122.202 | Country: IL | Confidence: 100% | Reason: Malicious Activity
+82.102.149.88 | Country: IL | Confidence: 100% | Reason: Malicious Activity
+2.54.97.134 | Country: IL | Confidence: 100% | Reason: Malicious Activity
+82.102.188.117 | Country: IL | Confidence: 100% | Reason: Malicious Activity
+5.29.135.63 | Country: IL | Confidence: 100% | Reason: Malicious Activity
+212.199.105.109 | Country: IL | Confidence: 100% | Reason: Malicious Activity
