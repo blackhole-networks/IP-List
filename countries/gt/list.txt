@@ -1,1 +1,1 @@
-190.148.112.242 | Reason: Reported Malicious Activity
+190.148.112.242 | Country: GT | Confidence: 100% | Reason: Malicious Activity
