@@ -3,10 +3,10 @@
 ## Current Status: Syncing to GitHub
 
 ### Progress Overview
-- **Elapsed Time**: 96s
+- **Elapsed Time**: 105s
 - **Total IPs**: 5000
 - **Processed IPs**: 5000/5000
-- **Files Uploaded**: 100/114
+- **Files Uploaded**: 110/114
 - **Errors**: 1
 
 ### Processing Progress
@@ -16,7 +16,7 @@
 
 ### Upload Progress
 ```
-██████████████████████████░░░░ 87%
+████████████████████████████░░ 96%
 ```
 
 
@@ -148,25 +148,6 @@
 
 ## 📝 Recent Activity Logs
 ```
-[2026-05-16T23:24:59.110Z] [INFO] ✓ Uploaded: countries/az/list.txt
-[2026-05-16T23:24:59.211Z] [INFO] Processing ZM (ZM) - 2 IPs
-[2026-05-16T23:25:00.059Z] [INFO] ✓ Uploaded: countries/zm/list.txt
-[2026-05-16T23:25:00.159Z] [INFO] Processing LA (LA) - 2 IPs
-[2026-05-16T23:25:00.931Z] [INFO] ✓ Uploaded: countries/la/list.txt
-[2026-05-16T23:25:01.032Z] [INFO] Processing BO (BO) - 4 IPs
-[2026-05-16T23:25:01.825Z] [INFO] ✓ Uploaded: countries/bo/list.txt
-[2026-05-16T23:25:01.924Z] [INFO] Processing MW (MW) - 1 IPs
-[2026-05-16T23:25:02.845Z] [INFO] ✓ Uploaded: countries/mw/list.txt
-[2026-05-16T23:25:02.946Z] [INFO] Processing PA (PA) - 1 IPs
-[2026-05-16T23:25:03.746Z] [INFO] ✓ Uploaded: countries/pa/list.txt
-[2026-05-16T23:25:04.586Z] [INFO] ✓ Uploaded: README.md
-[2026-05-16T23:25:04.685Z] [INFO] Processing BH (BH) - 1 IPs
-[2026-05-16T23:25:05.422Z] [INFO] ✓ Uploaded: countries/bh/list.txt
-[2026-05-16T23:25:05.521Z] [INFO] Processing CL (CL) - 5 IPs
-[2026-05-16T23:25:06.315Z] [INFO] ✓ Uploaded: countries/cl/list.txt
-[2026-05-16T23:25:06.416Z] [INFO] Processing UG (UG) - 1 IPs
-[2026-05-16T23:25:07.251Z] [INFO] ✓ Uploaded: countries/ug/list.txt
-[2026-05-16T23:25:07.351Z] [INFO] Processing EE (EE) - 1 IPs
 [2026-05-16T23:25:08.151Z] [INFO] ✓ Uploaded: countries/ee/list.txt
 [2026-05-16T23:25:08.251Z] [INFO] Processing PS (PS) - 2 IPs
 [2026-05-16T23:25:09.119Z] [INFO] ✓ Uploaded: countries/ps/list.txt
@@ -178,6 +159,25 @@
 [2026-05-16T23:25:11.938Z] [INFO] ✓ Uploaded: countries/al/list.txt
 [2026-05-16T23:25:12.038Z] [INFO] Processing LK (LK) - 2 IPs
 [2026-05-16T23:25:12.830Z] [INFO] ✓ Uploaded: countries/lk/list.txt
+[2026-05-16T23:25:13.705Z] [INFO] ✓ Uploaded: README.md
+[2026-05-16T23:25:13.806Z] [INFO] Processing LY (LY) - 1 IPs
+[2026-05-16T23:25:14.584Z] [INFO] ✓ Uploaded: countries/ly/list.txt
+[2026-05-16T23:25:14.685Z] [INFO] Processing GR (GR) - 1 IPs
+[2026-05-16T23:25:15.483Z] [INFO] ✓ Uploaded: countries/gr/list.txt
+[2026-05-16T23:25:15.582Z] [INFO] Processing BN (BN) - 1 IPs
+[2026-05-16T23:25:16.429Z] [INFO] ✓ Uploaded: countries/bn/list.txt
+[2026-05-16T23:25:16.530Z] [INFO] Processing MU (MU) - 1 IPs
+[2026-05-16T23:25:17.350Z] [INFO] ✓ Uploaded: countries/mu/list.txt
+[2026-05-16T23:25:17.451Z] [INFO] Processing ZW (ZW) - 1 IPs
+[2026-05-16T23:25:18.247Z] [INFO] ✓ Uploaded: countries/zw/list.txt
+[2026-05-16T23:25:18.347Z] [INFO] Processing CI (CI) - 1 IPs
+[2026-05-16T23:25:19.164Z] [INFO] ✓ Uploaded: countries/ci/list.txt
+[2026-05-16T23:25:19.265Z] [INFO] Processing SA (SA) - 1 IPs
+[2026-05-16T23:25:20.033Z] [INFO] ✓ Uploaded: countries/sa/list.txt
+[2026-05-16T23:25:20.133Z] [INFO] Processing BW (BW) - 1 IPs
+[2026-05-16T23:25:20.880Z] [INFO] ✓ Uploaded: countries/bw/list.txt
+[2026-05-16T23:25:20.980Z] [INFO] Processing DO (DO) - 1 IPs
+[2026-05-16T23:25:21.718Z] [INFO] ✓ Uploaded: countries/do/list.txt
 ```
 
 ## ⚠️ Errors (1)
@@ -205,6 +205,6 @@
 - [Countries Folder](./countries/) - Browse by country
 
 ---
-*Last Updated: 2026-05-16T23:25:12.830Z*  
+*Last Updated: 2026-05-16T23:25:21.719Z*  
 *This file is automatically updated during sync operations*  
 *Confidence: 75%+*
