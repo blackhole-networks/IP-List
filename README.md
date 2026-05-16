@@ -3,10 +3,10 @@
 ## Current Status: Syncing to GitHub
 
 ### Progress Overview
-- **Elapsed Time**: 60s
+- **Elapsed Time**: 69s
 - **Total IPs**: 5000
 - **Processed IPs**: 5000/5000
-- **Files Uploaded**: 60/114
+- **Files Uploaded**: 70/114
 - **Errors**: 1
 
 ### Processing Progress
@@ -16,7 +16,7 @@
 
 ### Upload Progress
 ```
-███████████████░░░░░░░░░░░░░░░ 52%
+██████████████████░░░░░░░░░░░░ 61%
 ```
 
 
@@ -148,25 +148,6 @@
 
 ## 📝 Recent Activity Logs
 ```
-[2026-05-16T23:24:22.974Z] [INFO] ✓ Uploaded: countries/id/list.txt
-[2026-05-16T23:24:23.075Z] [INFO] Processing ET (ET) - 9 IPs
-[2026-05-16T23:24:23.829Z] [INFO] ✓ Uploaded: countries/et/list.txt
-[2026-05-16T23:24:23.930Z] [INFO] Processing LV (LV) - 2 IPs
-[2026-05-16T23:24:24.697Z] [INFO] ✓ Uploaded: countries/lv/list.txt
-[2026-05-16T23:24:24.798Z] [INFO] Processing Italy (IT) - 13 IPs
-[2026-05-16T23:24:25.559Z] [INFO] ✓ Uploaded: countries/it/list.txt
-[2026-05-16T23:24:25.659Z] [INFO] Processing Japan (JP) - 128 IPs
-[2026-05-16T23:24:26.454Z] [INFO] ✓ Uploaded: countries/jp/list.txt
-[2026-05-16T23:24:26.554Z] [INFO] Processing KZ (KZ) - 6 IPs
-[2026-05-16T23:24:27.382Z] [INFO] ✓ Uploaded: countries/kz/list.txt
-[2026-05-16T23:24:28.287Z] [INFO] ✓ Uploaded: README.md
-[2026-05-16T23:24:28.387Z] [INFO] Processing NG (NG) - 12 IPs
-[2026-05-16T23:24:29.214Z] [INFO] ✓ Uploaded: countries/ng/list.txt
-[2026-05-16T23:24:29.314Z] [INFO] Processing PY (PY) - 7 IPs
-[2026-05-16T23:24:30.242Z] [INFO] ✓ Uploaded: countries/py/list.txt
-[2026-05-16T23:24:30.343Z] [INFO] Processing ZA (ZA) - 7 IPs
-[2026-05-16T23:24:31.164Z] [INFO] ✓ Uploaded: countries/za/list.txt
-[2026-05-16T23:24:31.265Z] [INFO] Processing TW (TW) - 23 IPs
 [2026-05-16T23:24:32.226Z] [INFO] ✓ Uploaded: countries/tw/list.txt
 [2026-05-16T23:24:32.327Z] [INFO] Processing NO (NO) - 5 IPs
 [2026-05-16T23:24:33.048Z] [INFO] ✓ Uploaded: countries/no/list.txt
@@ -178,6 +159,25 @@
 [2026-05-16T23:24:35.731Z] [INFO] ✓ Uploaded: countries/pk/list.txt
 [2026-05-16T23:24:35.832Z] [INFO] Processing LU (LU) - 5 IPs
 [2026-05-16T23:24:36.644Z] [INFO] ✓ Uploaded: countries/lu/list.txt
+[2026-05-16T23:24:37.458Z] [INFO] ✓ Uploaded: README.md
+[2026-05-16T23:24:37.559Z] [INFO] Processing TZ (TZ) - 5 IPs
+[2026-05-16T23:24:38.354Z] [INFO] ✓ Uploaded: countries/tz/list.txt
+[2026-05-16T23:24:38.454Z] [INFO] Processing NP (NP) - 1 IPs
+[2026-05-16T23:24:39.251Z] [INFO] ✓ Uploaded: countries/np/list.txt
+[2026-05-16T23:24:39.352Z] [INFO] Processing UZ (UZ) - 8 IPs
+[2026-05-16T23:24:40.131Z] [INFO] ✓ Uploaded: countries/uz/list.txt
+[2026-05-16T23:24:40.232Z] [INFO] Processing Argentina (AR) - 9 IPs
+[2026-05-16T23:24:41.048Z] [INFO] ✓ Uploaded: countries/ar/list.txt
+[2026-05-16T23:24:41.148Z] [INFO] Processing MZ (MZ) - 2 IPs
+[2026-05-16T23:24:41.943Z] [INFO] ✓ Uploaded: countries/mz/list.txt
+[2026-05-16T23:24:42.043Z] [INFO] Processing PH (PH) - 8 IPs
+[2026-05-16T23:24:42.821Z] [INFO] ✓ Uploaded: countries/ph/list.txt
+[2026-05-16T23:24:42.922Z] [INFO] Processing BZ (BZ) - 1 IPs
+[2026-05-16T23:24:43.737Z] [INFO] ✓ Uploaded: countries/bz/list.txt
+[2026-05-16T23:24:43.838Z] [INFO] Processing CH (CH) - 13 IPs
+[2026-05-16T23:24:44.638Z] [INFO] ✓ Uploaded: countries/ch/list.txt
+[2026-05-16T23:24:44.738Z] [INFO] Processing NZ (NZ) - 3 IPs
+[2026-05-16T23:24:45.522Z] [INFO] ✓ Uploaded: countries/nz/list.txt
 ```
 
 ## ⚠️ Errors (1)
@@ -205,6 +205,6 @@
 - [Countries Folder](./countries/) - Browse by country
 
 ---
-*Last Updated: 2026-05-16T23:24:36.645Z*  
+*Last Updated: 2026-05-16T23:24:45.522Z*  
 *This file is automatically updated during sync operations*  
 *Confidence: 75%+*
