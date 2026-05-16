@@ -1,7 +1,1 @@
-45.15.227.120 | Reason: Reported Malicious Activity
-178.175.167.17 | Reason: Reported Malicious Activity
-45.15.224.178 | Reason: Reported Malicious Activity
-45.15.226.100 | Reason: Reported Malicious Activity
-176.123.5.37 | Reason: Reported Malicious Activity
-176.123.8.39 | Reason: Reported Malicious Activity
-185.164.81.156 | Reason: Reported Malicious Activity
+176.123.5.37 | Country: MD | Confidence: 100% | Reason: Malicious Activity
