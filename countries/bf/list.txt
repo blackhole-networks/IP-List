@@ -1,1 +1,1 @@
-196.28.242.198 | Reason: Reported Malicious Activity
+196.28.242.198 | Country: BF | Confidence: 100% | Reason: Malicious Activity
