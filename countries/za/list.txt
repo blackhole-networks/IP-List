@@ -5,3 +5,14 @@
 93.152.208.42 | Country: ZA | Confidence: 100% | Reason: Malicious Activity
 197.245.30.239 | Country: ZA | Confidence: 100% | Reason: Malicious Activity
 41.76.109.44 | Country: ZA | Confidence: 100% | Reason: Malicious Activity
+102.221.60.245 | Country: ZA | Confidence: 100% | Reason: Malicious Activity
+164.160.89.209 | Country: ZA | Confidence: 100% | Reason: Malicious Activity
+197.83.235.79 | Country: ZA | Confidence: 100% | Reason: Malicious Activity
+197.90.196.65 | Country: ZA | Confidence: 100% | Reason: Malicious Activity
+93.152.208.26 | Country: ZA | Confidence: 100% | Reason: Malicious Activity
+4.221.162.168 | Country: ZA | Confidence: 100% | Reason: Malicious Activity
+93.152.208.18 | Country: ZA | Confidence: 100% | Reason: Malicious Activity
+102.211.48.188 | Country: ZA | Confidence: 100% | Reason: Malicious Activity
+102.210.64.244 | Country: ZA | Confidence: 100% | Reason: Malicious Activity
+164.151.136.50 | Country: ZA | Confidence: 100% | Reason: Malicious Activity
+102.223.58.120 | Country: ZA | Confidence: 100% | Reason: Malicious Activity
