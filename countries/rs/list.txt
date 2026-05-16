@@ -1,3 +1,2 @@
-109.207.33.248 | Reason: Reported Malicious Activity
-109.245.172.222 | Reason: Reported Malicious Activity
-77.105.37.248 | Reason: Reported Malicious Activity
+193.42.20.134 | Country: RS | Confidence: 100% | Reason: Malicious Activity
+77.105.37.248 | Country: RS | Confidence: 100% | Reason: Malicious Activity
