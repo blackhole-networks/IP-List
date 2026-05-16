@@ -11,3 +11,14 @@
 65.20.250.180 | Country: IQ | Confidence: 100% | Reason: Malicious Activity
 65.20.163.103 | Country: IQ | Confidence: 100% | Reason: Malicious Activity
 185.158.23.150 | Country: IQ | Confidence: 100% | Reason: Malicious Activity
+185.106.29.185 | Country: IQ | Confidence: 100% | Reason: Malicious Activity
+37.239.129.31 | Country: IQ | Confidence: 100% | Reason: Malicious Activity
+65.20.217.64 | Country: IQ | Confidence: 100% | Reason: Malicious Activity
+65.20.198.159 | Country: IQ | Confidence: 100% | Reason: Malicious Activity
+65.20.141.174 | Country: IQ | Confidence: 100% | Reason: Malicious Activity
+65.20.202.4 | Country: IQ | Confidence: 100% | Reason: Malicious Activity
+185.158.22.150 | Country: IQ | Confidence: 100% | Reason: Malicious Activity
+65.20.233.110 | Country: IQ | Confidence: 100% | Reason: Malicious Activity
+65.20.138.3 | Country: IQ | Confidence: 100% | Reason: Malicious Activity
+37.237.191.40 | Country: IQ | Confidence: 100% | Reason: Malicious Activity
+185.106.29.186 | Country: IQ | Confidence: 100% | Reason: Malicious Activity
