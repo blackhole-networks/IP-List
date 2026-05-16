@@ -1,42 +1,13 @@
-87.236.176.113 | Reason: Reported Malicious Activity
-213.177.179.80 | Reason: Reported Malicious Activity
-213.211.128.5 | Reason: Reported Malicious Activity
-57.128.225.99 | Reason: Reported Malicious Activity
-87.236.176.120 | Reason: Reported Malicious Activity
-57.128.212.198 | Reason: Reported Malicious Activity
-57.128.246.209 | Reason: Reported Malicious Activity
-87.236.176.144 | Reason: Reported Malicious Activity
-57.134.70.139 | Reason: Reported Malicious Activity
-57.128.216.119 | Reason: Reported Malicious Activity
-87.236.176.142 | Reason: Reported Malicious Activity
-57.128.239.139 | Reason: Reported Malicious Activity
-87.236.176.162 | Reason: Reported Malicious Activity
-87.236.176.143 | Reason: Reported Malicious Activity
-87.236.176.165 | Reason: Reported Malicious Activity
-57.151.105.154 | Reason: Reported Malicious Activity
-87.236.176.158 | Reason: Reported Malicious Activity
-57.128.218.144 | Reason: Reported Malicious Activity
-87.236.176.116 | Reason: Reported Malicious Activity
-87.236.176.117 | Reason: Reported Malicious Activity
-213.177.179.12 | Reason: Reported Malicious Activity
-87.236.176.47 | Reason: Reported Malicious Activity
-87.236.176.54 | Reason: Reported Malicious Activity
-87.236.176.159 | Reason: Reported Malicious Activity
-87.236.176.152 | Reason: Reported Malicious Activity
-150.251.154.128 | Reason: Reported Malicious Activity
-87.236.176.155 | Reason: Reported Malicious Activity
-87.236.176.176 | Reason: Reported Malicious Activity
-57.151.98.114 | Reason: Reported Malicious Activity
-87.236.176.163 | Reason: Reported Malicious Activity
-213.177.179.91 | Reason: Reported Malicious Activity
-87.236.176.147 | Reason: Reported Malicious Activity
-57.151.106.164 | Reason: Reported Malicious Activity
-91.86.88.24 | Reason: Reported Malicious Activity
-87.236.176.167 | Reason: Reported Malicious Activity
-57.128.213.187 | Reason: Reported Malicious Activity
-57.152.33.247 | Reason: Reported Malicious Activity
-87.236.176.247 | Reason: Reported Malicious Activity
-213.177.179.79 | Reason: Reported Malicious Activity
-87.236.176.60 | Reason: Reported Malicious Activity
-185.28.37.194 | Reason: Reported Malicious Activity
-57.128.255.67 | Reason: Reported Malicious Activity
+146.148.5.239 | Country: BE | Confidence: 100% | Reason: Malicious Activity
+34.78.29.97 | Country: BE | Confidence: 100% | Reason: Malicious Activity
+213.211.128.5 | Country: BE | Confidence: 100% | Reason: Malicious Activity
+104.155.29.73 | Country: BE | Confidence: 100% | Reason: Malicious Activity
+34.62.197.208 | Country: BE | Confidence: 100% | Reason: Malicious Activity
+109.129.54.86 | Country: BE | Confidence: 100% | Reason: Malicious Activity
+35.205.114.199 | Country: BE | Confidence: 100% | Reason: Malicious Activity
+141.98.233.84 | Country: BE | Confidence: 100% | Reason: Malicious Activity
+35.195.125.166 | Country: BE | Confidence: 100% | Reason: Malicious Activity
+35.233.42.65 | Country: BE | Confidence: 100% | Reason: Malicious Activity
+35.195.212.122 | Country: BE | Confidence: 100% | Reason: Malicious Activity
+34.78.219.50 | Country: BE | Confidence: 100% | Reason: Malicious Activity
+34.76.58.207 | Country: BE | Confidence: 100% | Reason: Malicious Activity
