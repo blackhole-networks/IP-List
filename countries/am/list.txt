@@ -1,10 +1,6 @@
-176.32.193.16 | Reason: Reported Malicious Activity
-185.223.124.133 | Reason: Reported Malicious Activity
-176.32.195.85 | Reason: Reported Malicious Activity
-37.186.113.38 | Reason: Reported Malicious Activity
-195.250.79.2 | Reason: Reported Malicious Activity
-37.186.114.102 | Reason: Reported Malicious Activity
-37.186.116.56 | Reason: Reported Malicious Activity
-37.186.116.222 | Reason: Reported Malicious Activity
-212.73.75.82 | Reason: Reported Malicious Activity
-195.250.72.168 | Reason: Reported Malicious Activity
+37.186.113.131 | Country: AM | Confidence: 100% | Reason: Malicious Activity
+37.186.116.222 | Country: AM | Confidence: 100% | Reason: Malicious Activity
+37.186.118.22 | Country: AM | Confidence: 100% | Reason: Malicious Activity
+37.186.127.123 | Country: AM | Confidence: 100% | Reason: Malicious Activity
+176.32.193.16 | Country: AM | Confidence: 100% | Reason: Malicious Activity
+37.186.125.10 | Country: AM | Confidence: 100% | Reason: Malicious Activity
