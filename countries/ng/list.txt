@@ -1,0 +1,16 @@
+102.88.137.80 | Reason: Reported Malicious Activity
+152.32.141.9 | Reason: Reported Malicious Activity
+152.32.140.12 | Reason: Reported Malicious Activity
+102.88.137.213 | Reason: Reported Malicious Activity
+152.32.141.2 | Reason: Reported Malicious Activity
+102.88.137.145 | Reason: Reported Malicious Activity
+152.32.141.86 | Reason: Reported Malicious Activity
+152.32.140.39 | Reason: Reported Malicious Activity
+152.32.143.6 | Reason: Reported Malicious Activity
+152.32.143.189 | Reason: Reported Malicious Activity
+152.32.141.40 | Reason: Reported Malicious Activity
+152.32.142.188 | Reason: Reported Malicious Activity
+152.32.141.199 | Reason: Reported Malicious Activity
+152.32.142.138 | Reason: Reported Malicious Activity
+62.173.38.229 | Reason: Reported Malicious Activity
+41.219.149.74 | Reason: Reported Malicious Activity
