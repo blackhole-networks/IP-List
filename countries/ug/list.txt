@@ -1,0 +1,4 @@
+196.0.107.158 | Reason: Reported Malicious Activity
+41.220.3.101 | Reason: Reported Malicious Activity
+196.0.34.106 | Reason: Reported Malicious Activity
+196.0.41.134 | Reason: Reported Malicious Activity
