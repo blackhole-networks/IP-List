@@ -3,10 +3,10 @@
 ## Current Status: Syncing to GitHub
 
 ### Progress Overview
-- **Elapsed Time**: 13s
+- **Elapsed Time**: 23s
 - **Total IPs**: 5000
 - **Processed IPs**: 5000/5000
-- **Files Uploaded**: 10/114
+- **Files Uploaded**: 20/114
 - **Errors**: 1
 
 ### Processing Progress
@@ -16,7 +16,7 @@
 
 ### Upload Progress
 ```
-██░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 8%
+█████░░░░░░░░░░░░░░░░░░░░░░░░░ 17%
 ```
 
 
@@ -148,25 +148,6 @@
 
 ## 📝 Recent Activity Logs
 ```
-[2026-05-16T23:23:39.322Z] [INFO] Processed 4600/5000 IPs
-[2026-05-16T23:23:39.323Z] [INFO] Processed 4700/5000 IPs
-[2026-05-16T23:23:39.323Z] [INFO] Processed 4800/5000 IPs
-[2026-05-16T23:23:39.323Z] [INFO] Processed 4900/5000 IPs
-[2026-05-16T23:23:39.324Z] [INFO] Processed 5000/5000 IPs
-[2026-05-16T23:23:39.324Z] [INFO] Processing complete: 5000 valid IPs
-[2026-05-16T23:23:39.333Z] [INFO] Processed data saved to data/processed_ips.json
-[2026-05-16T23:23:39.333Z] [INFO] === STEP 3: Syncing to GitHub ===
-[2026-05-16T23:23:39.730Z] [ERROR] GitHub Error [README.md]: README.md does not match e3c9eaaadd99c19c3a5f46e96f5faf1b71bbc48d - https://docs.github.com/rest/repos/contents#create-or-update-file-contents
-[2026-05-16T23:23:39.730Z] [INFO] Starting GitHub sync: 114 files to upload
-[2026-05-16T23:23:40.597Z] [INFO] ✓ Uploaded: README.md
-[2026-05-16T23:23:40.597Z] [INFO] Uploading 111 country folders...
-[2026-05-16T23:23:40.597Z] [INFO] Processing Netherlands (NL) - 266 IPs
-[2026-05-16T23:23:41.522Z] [INFO] ✓ Uploaded: countries/nl/list.txt
-[2026-05-16T23:23:41.622Z] [INFO] Processing Romania (RO) - 53 IPs
-[2026-05-16T23:23:42.406Z] [INFO] ✓ Uploaded: countries/ro/list.txt
-[2026-05-16T23:23:42.507Z] [INFO] Processing SG (SG) - 388 IPs
-[2026-05-16T23:23:43.453Z] [INFO] ✓ Uploaded: countries/sg/list.txt
-[2026-05-16T23:23:43.552Z] [INFO] Processing BG (BG) - 30 IPs
 [2026-05-16T23:23:44.380Z] [INFO] ✓ Uploaded: countries/bg/list.txt
 [2026-05-16T23:23:44.480Z] [INFO] Processing Vietnam (VN) - 76 IPs
 [2026-05-16T23:23:45.206Z] [INFO] ✓ Uploaded: countries/vn/list.txt
@@ -178,6 +159,25 @@
 [2026-05-16T23:23:48.829Z] [INFO] ✓ Uploaded: countries/us/list.txt
 [2026-05-16T23:23:48.930Z] [INFO] Processing FI (FI) - 22 IPs
 [2026-05-16T23:23:49.740Z] [INFO] ✓ Uploaded: countries/fi/list.txt
+[2026-05-16T23:23:50.576Z] [INFO] ✓ Uploaded: README.md
+[2026-05-16T23:23:50.677Z] [INFO] Processing India (IN) - 174 IPs
+[2026-05-16T23:23:51.679Z] [INFO] ✓ Uploaded: countries/in/list.txt
+[2026-05-16T23:23:51.779Z] [INFO] Processing Germany (DE) - 199 IPs
+[2026-05-16T23:23:52.714Z] [INFO] ✓ Uploaded: countries/de/list.txt
+[2026-05-16T23:23:52.813Z] [INFO] Processing HK (HK) - 164 IPs
+[2026-05-16T23:23:53.770Z] [INFO] ✓ Uploaded: countries/hk/list.txt
+[2026-05-16T23:23:53.869Z] [INFO] Processing China (CN) - 364 IPs
+[2026-05-16T23:23:54.904Z] [INFO] ✓ Uploaded: countries/cn/list.txt
+[2026-05-16T23:23:55.005Z] [INFO] Processing LT (LT) - 31 IPs
+[2026-05-16T23:23:55.794Z] [INFO] ✓ Uploaded: countries/lt/list.txt
+[2026-05-16T23:23:55.895Z] [INFO] Processing Mexico (MX) - 16 IPs
+[2026-05-16T23:23:56.710Z] [INFO] ✓ Uploaded: countries/mx/list.txt
+[2026-05-16T23:23:56.811Z] [INFO] Processing South Korea (KR) - 181 IPs
+[2026-05-16T23:23:57.647Z] [INFO] ✓ Uploaded: countries/kr/list.txt
+[2026-05-16T23:23:57.746Z] [INFO] Processing Poland (PL) - 19 IPs
+[2026-05-16T23:23:58.531Z] [INFO] ✓ Uploaded: countries/pl/list.txt
+[2026-05-16T23:23:58.631Z] [INFO] Processing IE (IE) - 6 IPs
+[2026-05-16T23:23:59.475Z] [INFO] ✓ Uploaded: countries/ie/list.txt
 ```
 
 ## ⚠️ Errors (1)
@@ -205,6 +205,6 @@
 - [Countries Folder](./countries/) - Browse by country
 
 ---
-*Last Updated: 2026-05-16T23:23:49.741Z*  
+*Last Updated: 2026-05-16T23:23:59.476Z*  
 *This file is automatically updated during sync operations*  
 *Confidence: 75%+*
