@@ -4,3 +4,14 @@
 212.116.247.31 | Country: KZ | Confidence: 100% | Reason: Malicious Activity
 109.248.170.188 | Country: KZ | Confidence: 100% | Reason: Malicious Activity
 31.56.240.49 | Country: KZ | Confidence: 100% | Reason: Malicious Activity
+185.217.188.132 | Country: KZ | Confidence: 100% | Reason: Malicious Activity
+185.217.188.134 | Country: KZ | Confidence: 100% | Reason: Malicious Activity
+92.46.38.226 | Country: KZ | Confidence: 100% | Reason: Malicious Activity
+91.201.216.61 | Country: KZ | Confidence: 100% | Reason: Malicious Activity
+178.91.48.62 | Country: KZ | Confidence: 100% | Reason: Malicious Activity
+89.218.69.66 | Country: KZ | Confidence: 100% | Reason: Malicious Activity
+176.124.88.29 | Country: KZ | Confidence: 100% | Reason: Malicious Activity
+37.150.87.223 | Country: KZ | Confidence: 100% | Reason: Malicious Activity
+37.208.46.130 | Country: KZ | Confidence: 100% | Reason: Malicious Activity
+95.58.255.251 | Country: KZ | Confidence: 100% | Reason: Malicious Activity
+178.91.94.146 | Country: KZ | Confidence: 100% | Reason: Malicious Activity
