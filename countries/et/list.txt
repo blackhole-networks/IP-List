@@ -1,11 +1,9 @@
-197.156.97.198 | Reason: Reported Malicious Activity
-196.189.126.10 | Reason: Reported Malicious Activity
-196.189.237.92 | Reason: Reported Malicious Activity
-196.190.220.168 | Reason: Reported Malicious Activity
-196.189.155.89 | Reason: Reported Malicious Activity
-213.55.79.195 | Reason: Reported Malicious Activity
-196.190.220.199 | Reason: Reported Malicious Activity
-196.189.51.64 | Reason: Reported Malicious Activity
-196.189.126.17 | Reason: Reported Malicious Activity
-196.188.93.169 | Reason: Reported Malicious Activity
-196.189.51.134 | Reason: Reported Malicious Activity
+196.189.51.4 | Country: ET | Confidence: 100% | Reason: Malicious Activity
+196.189.124.229 | Country: ET | Confidence: 100% | Reason: Malicious Activity
+196.189.124.218 | Country: ET | Confidence: 100% | Reason: Malicious Activity
+196.189.155.89 | Country: ET | Confidence: 100% | Reason: Malicious Activity
+197.156.97.198 | Country: ET | Confidence: 100% | Reason: Malicious Activity
+196.189.237.92 | Country: ET | Confidence: 100% | Reason: Malicious Activity
+196.189.126.17 | Country: ET | Confidence: 100% | Reason: Malicious Activity
+196.189.126.185 | Country: ET | Confidence: 100% | Reason: Malicious Activity
+196.190.180.19 | Country: ET | Confidence: 100% | Reason: Malicious Activity
