@@ -1,1 +1,2 @@
 197.243.14.52 | Country: RW | Confidence: 100% | Reason: Malicious Activity
+197.243.0.62 | Country: RW | Confidence: 100% | Reason: Malicious Activity
