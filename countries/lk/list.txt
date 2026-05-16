@@ -1,4 +1,2 @@
-220.247.224.226 | Reason: Reported Malicious Activity
-43.224.126.107 | Reason: Reported Malicious Activity
-124.43.4.17 | Reason: Reported Malicious Activity
-222.165.190.235 | Reason: Reported Malicious Activity
+222.165.190.235 | Country: LK | Confidence: 100% | Reason: Malicious Activity
+43.224.126.107 | Country: LK | Confidence: 100% | Reason: Malicious Activity
