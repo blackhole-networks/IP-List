@@ -7,3 +7,6 @@
 196.189.126.17 | Country: ET | Confidence: 100% | Reason: Malicious Activity
 196.189.126.185 | Country: ET | Confidence: 100% | Reason: Malicious Activity
 196.190.180.19 | Country: ET | Confidence: 100% | Reason: Malicious Activity
+196.189.51.64 | Country: ET | Confidence: 100% | Reason: Malicious Activity
+196.189.126.10 | Country: ET | Confidence: 100% | Reason: Malicious Activity
+196.190.41.137 | Country: ET | Confidence: 100% | Reason: Malicious Activity
