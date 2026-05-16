@@ -1,0 +1,15 @@
+138.124.185.246 | Reason: Reported Malicious Activity
+138.124.6.37 | Reason: Reported Malicious Activity
+79.161.110.92 | Reason: Reported Malicious Activity
+138.124.158.150 | Reason: Reported Malicious Activity
+193.90.12.122 | Reason: Reported Malicious Activity
+138.124.16.222 | Reason: Reported Malicious Activity
+87.248.15.32 | Reason: Reported Malicious Activity
+138.124.123.62 | Reason: Reported Malicious Activity
+193.71.134.52 | Reason: Reported Malicious Activity
+138.124.73.129 | Reason: Reported Malicious Activity
+138.124.20.112 | Reason: Reported Malicious Activity
+45.66.131.134 | Reason: Reported Malicious Activity
+138.124.30.225 | Reason: Reported Malicious Activity
+185.12.59.118 | Reason: Reported Malicious Activity
+81.167.26.57 | Reason: Reported Malicious Activity
