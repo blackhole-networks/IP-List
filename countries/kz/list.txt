@@ -1,17 +1,6 @@
-77.240.44.232 | Reason: Reported Malicious Activity
-91.201.216.61 | Reason: Reported Malicious Activity
-89.218.247.234 | Reason: Reported Malicious Activity
-95.58.255.251 | Reason: Reported Malicious Activity
-146.66.19.81 | Reason: Reported Malicious Activity
-212.116.247.20 | Reason: Reported Malicious Activity
-195.49.212.189 | Reason: Reported Malicious Activity
-185.217.188.132 | Reason: Reported Malicious Activity
-5.63.101.186 | Reason: Reported Malicious Activity
-95.57.218.109 | Reason: Reported Malicious Activity
-212.116.247.31 | Reason: Reported Malicious Activity
-92.47.46.174 | Reason: Reported Malicious Activity
-193.31.200.85 | Reason: Reported Malicious Activity
-37.150.87.223 | Reason: Reported Malicious Activity
-95.58.95.140 | Reason: Reported Malicious Activity
-77.240.38.4 | Reason: Reported Malicious Activity
-92.46.38.226 | Reason: Reported Malicious Activity
+109.248.156.49 | Country: KZ | Confidence: 100% | Reason: Malicious Activity
+46.247.43.142 | Country: KZ | Confidence: 100% | Reason: Malicious Activity
+45.66.52.41 | Country: KZ | Confidence: 100% | Reason: Malicious Activity
+212.116.247.31 | Country: KZ | Confidence: 100% | Reason: Malicious Activity
+109.248.170.188 | Country: KZ | Confidence: 100% | Reason: Malicious Activity
+31.56.240.49 | Country: KZ | Confidence: 100% | Reason: Malicious Activity
