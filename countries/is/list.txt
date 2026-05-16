@@ -1,0 +1,2 @@
+185.40.122.250 | Reason: Reported Malicious Activity
+185.112.144.177 | Reason: Reported Malicious Activity
