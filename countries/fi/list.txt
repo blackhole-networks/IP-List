@@ -1,11 +1,22 @@
-80.223.163.253 | Reason: Reported Malicious Activity
-62.220.236.203 | Reason: Reported Malicious Activity
-80.223.201.173 | Reason: Reported Malicious Activity
-80.223.198.246 | Reason: Reported Malicious Activity
-80.223.190.179 | Reason: Reported Malicious Activity
-80.223.200.184 | Reason: Reported Malicious Activity
-45.82.110.150 | Reason: Reported Malicious Activity
-95.216.210.177 | Reason: Reported Malicious Activity
-95.217.121.231 | Reason: Reported Malicious Activity
-91.233.116.94 | Reason: Reported Malicious Activity
-95.217.109.26 | Reason: Reported Malicious Activity
+87.121.89.143 | Country: FI | Confidence: 100% | Reason: Malicious Activity
+178.20.210.56 | Country: FI | Confidence: 100% | Reason: Malicious Activity
+45.130.127.106 | Country: FI | Confidence: 100% | Reason: Malicious Activity
+178.20.210.186 | Country: FI | Confidence: 100% | Reason: Malicious Activity
+77.105.130.18 | Country: FI | Confidence: 100% | Reason: Malicious Activity
+80.223.198.246 | Country: FI | Confidence: 100% | Reason: Malicious Activity
+46.62.158.117 | Country: FI | Confidence: 100% | Reason: Malicious Activity
+135.181.182.250 | Country: FI | Confidence: 100% | Reason: Malicious Activity
+91.233.116.74 | Country: FI | Confidence: 100% | Reason: Malicious Activity
+62.60.249.86 | Country: FI | Confidence: 100% | Reason: Malicious Activity
+45.91.193.105 | Country: FI | Confidence: 100% | Reason: Malicious Activity
+91.227.114.132 | Country: FI | Confidence: 100% | Reason: Malicious Activity
+144.31.132.70 | Country: FI | Confidence: 100% | Reason: Malicious Activity
+80.223.200.184 | Country: FI | Confidence: 100% | Reason: Malicious Activity
+178.20.210.182 | Country: FI | Confidence: 100% | Reason: Malicious Activity
+144.31.156.72 | Country: FI | Confidence: 100% | Reason: Malicious Activity
+185.231.206.117 | Country: FI | Confidence: 100% | Reason: Malicious Activity
+91.132.197.140 | Country: FI | Confidence: 100% | Reason: Malicious Activity
+77.105.161.28 | Country: FI | Confidence: 100% | Reason: Malicious Activity
+103.214.69.210 | Country: FI | Confidence: 100% | Reason: Malicious Activity
+65.109.58.27 | Country: FI | Confidence: 100% | Reason: Malicious Activity
+178.17.53.215 | Country: FI | Confidence: 100% | Reason: Malicious Activity
