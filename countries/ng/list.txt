@@ -10,3 +10,14 @@
 165.154.11.52 | Country: NG | Confidence: 100% | Reason: Malicious Activity
 152.32.141.9 | Country: NG | Confidence: 100% | Reason: Malicious Activity
 152.32.141.86 | Country: NG | Confidence: 100% | Reason: Malicious Activity
+165.154.11.206 | Country: NG | Confidence: 100% | Reason: Malicious Activity
+152.32.141.40 | Country: NG | Confidence: 100% | Reason: Malicious Activity
+152.32.140.218 | Country: NG | Confidence: 100% | Reason: Malicious Activity
+152.32.141.202 | Country: NG | Confidence: 100% | Reason: Malicious Activity
+102.216.134.50 | Country: NG | Confidence: 100% | Reason: Malicious Activity
+165.73.200.20 | Country: NG | Confidence: 100% | Reason: Malicious Activity
+152.32.143.6 | Country: NG | Confidence: 100% | Reason: Malicious Activity
+152.32.140.22 | Country: NG | Confidence: 100% | Reason: Malicious Activity
+41.76.192.13 | Country: NG | Confidence: 100% | Reason: Malicious Activity
+152.32.141.2 | Country: NG | Confidence: 100% | Reason: Malicious Activity
+41.242.115.83 | Country: NG | Confidence: 100% | Reason: Malicious Activity
