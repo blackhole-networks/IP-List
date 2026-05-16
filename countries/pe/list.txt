@@ -5,3 +5,8 @@
 190.119.198.81 | Country: PE | Confidence: 100% | Reason: Malicious Activity
 190.119.187.6 | Country: PE | Confidence: 100% | Reason: Malicious Activity
 190.119.63.98 | Country: PE | Confidence: 100% | Reason: Malicious Activity
+161.132.4.167 | Country: PE | Confidence: 100% | Reason: Malicious Activity
+190.116.174.157 | Country: PE | Confidence: 100% | Reason: Malicious Activity
+190.81.117.162 | Country: PE | Confidence: 100% | Reason: Malicious Activity
+38.25.30.40 | Country: PE | Confidence: 100% | Reason: Malicious Activity
+161.132.38.88 | Country: PE | Confidence: 100% | Reason: Malicious Activity
