@@ -1,0 +1,7 @@
+80.82.70.133 | Reason: Reported Malicious Activity
+160.119.76.64 | Reason: Reported Malicious Activity
+160.119.76.59 | Reason: Reported Malicious Activity
+185.231.33.38 | Reason: Reported Malicious Activity
+160.119.76.21 | Reason: Reported Malicious Activity
+160.119.76.44 | Reason: Reported Malicious Activity
+160.119.76.63 | Reason: Reported Malicious Activity
