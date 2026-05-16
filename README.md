@@ -3,10 +3,10 @@
 ## Current Status: Syncing to GitHub
 
 ### Progress Overview
-- **Elapsed Time**: 23s
+- **Elapsed Time**: 32s
 - **Total IPs**: 5000
 - **Processed IPs**: 5000/5000
-- **Files Uploaded**: 20/114
+- **Files Uploaded**: 30/114
 - **Errors**: 1
 
 ### Processing Progress
@@ -16,7 +16,7 @@
 
 ### Upload Progress
 ```
-█████░░░░░░░░░░░░░░░░░░░░░░░░░ 17%
+███████░░░░░░░░░░░░░░░░░░░░░░░ 26%
 ```
 
 
@@ -148,25 +148,6 @@
 
 ## 📝 Recent Activity Logs
 ```
-[2026-05-16T23:23:44.380Z] [INFO] ✓ Uploaded: countries/bg/list.txt
-[2026-05-16T23:23:44.480Z] [INFO] Processing Vietnam (VN) - 76 IPs
-[2026-05-16T23:23:45.206Z] [INFO] ✓ Uploaded: countries/vn/list.txt
-[2026-05-16T23:23:45.307Z] [INFO] Processing United Kingdom (GB) - 172 IPs
-[2026-05-16T23:23:46.270Z] [INFO] ✓ Uploaded: countries/gb/list.txt
-[2026-05-16T23:23:46.371Z] [INFO] Processing France (FR) - 133 IPs
-[2026-05-16T23:23:47.174Z] [INFO] ✓ Uploaded: countries/fr/list.txt
-[2026-05-16T23:23:47.274Z] [INFO] Processing United States (US) - 1796 IPs
-[2026-05-16T23:23:48.829Z] [INFO] ✓ Uploaded: countries/us/list.txt
-[2026-05-16T23:23:48.930Z] [INFO] Processing FI (FI) - 22 IPs
-[2026-05-16T23:23:49.740Z] [INFO] ✓ Uploaded: countries/fi/list.txt
-[2026-05-16T23:23:50.576Z] [INFO] ✓ Uploaded: README.md
-[2026-05-16T23:23:50.677Z] [INFO] Processing India (IN) - 174 IPs
-[2026-05-16T23:23:51.679Z] [INFO] ✓ Uploaded: countries/in/list.txt
-[2026-05-16T23:23:51.779Z] [INFO] Processing Germany (DE) - 199 IPs
-[2026-05-16T23:23:52.714Z] [INFO] ✓ Uploaded: countries/de/list.txt
-[2026-05-16T23:23:52.813Z] [INFO] Processing HK (HK) - 164 IPs
-[2026-05-16T23:23:53.770Z] [INFO] ✓ Uploaded: countries/hk/list.txt
-[2026-05-16T23:23:53.869Z] [INFO] Processing China (CN) - 364 IPs
 [2026-05-16T23:23:54.904Z] [INFO] ✓ Uploaded: countries/cn/list.txt
 [2026-05-16T23:23:55.005Z] [INFO] Processing LT (LT) - 31 IPs
 [2026-05-16T23:23:55.794Z] [INFO] ✓ Uploaded: countries/lt/list.txt
@@ -178,6 +159,25 @@
 [2026-05-16T23:23:58.531Z] [INFO] ✓ Uploaded: countries/pl/list.txt
 [2026-05-16T23:23:58.631Z] [INFO] Processing IE (IE) - 6 IPs
 [2026-05-16T23:23:59.475Z] [INFO] ✓ Uploaded: countries/ie/list.txt
+[2026-05-16T23:24:00.310Z] [INFO] ✓ Uploaded: README.md
+[2026-05-16T23:24:00.410Z] [INFO] Processing BD (BD) - 12 IPs
+[2026-05-16T23:24:01.195Z] [INFO] ✓ Uploaded: countries/bd/list.txt
+[2026-05-16T23:24:01.295Z] [INFO] Processing Thailand (TH) - 21 IPs
+[2026-05-16T23:24:02.097Z] [INFO] ✓ Uploaded: countries/th/list.txt
+[2026-05-16T23:24:02.197Z] [INFO] Processing CM (CM) - 3 IPs
+[2026-05-16T23:24:02.945Z] [INFO] ✓ Uploaded: countries/cm/list.txt
+[2026-05-16T23:24:03.046Z] [INFO] Processing Canada (CA) - 53 IPs
+[2026-05-16T23:24:03.901Z] [INFO] ✓ Uploaded: countries/ca/list.txt
+[2026-05-16T23:24:04.002Z] [INFO] Processing Turkey (TR) - 17 IPs
+[2026-05-16T23:24:04.859Z] [INFO] ✓ Uploaded: countries/tr/list.txt
+[2026-05-16T23:24:04.959Z] [INFO] Processing Spain (ES) - 15 IPs
+[2026-05-16T23:24:05.806Z] [INFO] ✓ Uploaded: countries/es/list.txt
+[2026-05-16T23:24:05.907Z] [INFO] Processing MY (MY) - 57 IPs
+[2026-05-16T23:24:06.746Z] [INFO] ✓ Uploaded: countries/my/list.txt
+[2026-05-16T23:24:06.847Z] [INFO] Processing Brazil (BR) - 84 IPs
+[2026-05-16T23:24:07.603Z] [INFO] ✓ Uploaded: countries/br/list.txt
+[2026-05-16T23:24:07.703Z] [INFO] Processing SE (SE) - 27 IPs
+[2026-05-16T23:24:08.759Z] [INFO] ✓ Uploaded: countries/se/list.txt
 ```
 
 ## ⚠️ Errors (1)
@@ -205,6 +205,6 @@
 - [Countries Folder](./countries/) - Browse by country
 
 ---
-*Last Updated: 2026-05-16T23:23:59.476Z*  
+*Last Updated: 2026-05-16T23:24:08.759Z*  
 *This file is automatically updated during sync operations*  
 *Confidence: 75%+*
