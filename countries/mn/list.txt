@@ -1,4 +1,3 @@
-180.149.125.164 | Reason: Reported Malicious Activity
-180.149.125.169 | Reason: Reported Malicious Activity
-180.149.125.168 | Reason: Reported Malicious Activity
-66.181.171.136 | Reason: Reported Malicious Activity
+180.149.126.17 | Country: MN | Confidence: 100% | Reason: Malicious Activity
+180.149.126.11 | Country: MN | Confidence: 100% | Reason: Malicious Activity
+180.149.125.170 | Country: MN | Confidence: 100% | Reason: Malicious Activity
