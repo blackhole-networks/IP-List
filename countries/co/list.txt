@@ -12,3 +12,13 @@
 170.254.229.191 | Country: CO | Confidence: 100% | Reason: Malicious Activity
 179.32.33.161 | Country: CO | Confidence: 100% | Reason: Malicious Activity
 190.217.66.86 | Country: CO | Confidence: 100% | Reason: Malicious Activity
+200.10.29.237 | Country: CO | Confidence: 100% | Reason: Malicious Activity
+152.200.181.42 | Country: CO | Confidence: 100% | Reason: Malicious Activity
+186.118.142.245 | Country: CO | Confidence: 100% | Reason: Malicious Activity
+186.113.246.66 | Country: CO | Confidence: 100% | Reason: Malicious Activity
+179.33.186.150 | Country: CO | Confidence: 100% | Reason: Malicious Activity
+186.168.82.164 | Country: CO | Confidence: 100% | Reason: Malicious Activity
+179.33.210.213 | Country: CO | Confidence: 100% | Reason: Malicious Activity
+186.180.175.236 | Country: CO | Confidence: 100% | Reason: Malicious Activity
+181.79.94.203 | Country: CO | Confidence: 100% | Reason: Malicious Activity
+181.79.87.93 | Country: CO | Confidence: 100% | Reason: Malicious Activity
