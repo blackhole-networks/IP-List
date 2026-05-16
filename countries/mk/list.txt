@@ -1,0 +1,6 @@
+188.44.20.30 | Reason: Reported Malicious Activity
+80.77.146.62 | Reason: Reported Malicious Activity
+188.44.20.34 | Reason: Reported Malicious Activity
+188.44.20.33 | Reason: Reported Malicious Activity
+213.135.168.228 | Reason: Reported Malicious Activity
+80.77.146.194 | Reason: Reported Malicious Activity
