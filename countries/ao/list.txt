@@ -1,1 +1,3 @@
 105.174.17.50 | Country: AO | Confidence: 100% | Reason: Malicious Activity
+41.222.202.170 | Country: AO | Confidence: 100% | Reason: Malicious Activity
+102.213.34.99 | Country: AO | Confidence: 100% | Reason: Malicious Activity
