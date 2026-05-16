@@ -1,9 +1,4 @@
-197.140.18.248 | Reason: Reported Malicious Activity
-129.45.84.119 | Reason: Reported Malicious Activity
-82.196.25.136 | Reason: Reported Malicious Activity
-41.111.218.240 | Reason: Reported Malicious Activity
-105.96.13.6 | Reason: Reported Malicious Activity
-154.241.60.36 | Reason: Reported Malicious Activity
-41.111.178.165 | Reason: Reported Malicious Activity
-41.110.4.106 | Reason: Reported Malicious Activity
-41.111.162.34 | Reason: Reported Malicious Activity
+41.111.178.165 | Country: DZ | Confidence: 100% | Reason: Malicious Activity
+105.96.13.6 | Country: DZ | Confidence: 100% | Reason: Malicious Activity
+197.140.18.248 | Country: DZ | Confidence: 100% | Reason: Malicious Activity
+129.45.84.205 | Country: DZ | Confidence: 100% | Reason: Malicious Activity
