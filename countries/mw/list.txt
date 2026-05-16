@@ -1,0 +1,2 @@
+102.70.86.105 | Reason: Reported Malicious Activity
+41.75.114.30 | Reason: Reported Malicious Activity
