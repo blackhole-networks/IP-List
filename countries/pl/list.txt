@@ -1,20 +1,19 @@
-83.168.88.41 | Reason: Reported Malicious Activity
-80.49.174.86 | Reason: Reported Malicious Activity
-41.216.178.119 | Reason: Reported Malicious Activity
-85.128.143.9 | Reason: Reported Malicious Activity
-83.168.110.85 | Reason: Reported Malicious Activity
-95.214.52.233 | Reason: Reported Malicious Activity
-89.167.124.202 | Reason: Reported Malicious Activity
-83.168.89.64 | Reason: Reported Malicious Activity
-89.67.37.52 | Reason: Reported Malicious Activity
-185.243.5.8 | Reason: Reported Malicious Activity
-87.207.232.23 | Reason: Reported Malicious Activity
-178.183.125.51 | Reason: Reported Malicious Activity
-130.185.96.126 | Reason: Reported Malicious Activity
-89.67.37.8 | Reason: Reported Malicious Activity
-91.227.37.60 | Reason: Reported Malicious Activity
-89.68.245.7 | Reason: Reported Malicious Activity
-89.67.246.166 | Reason: Reported Malicious Activity
-185.113.139.51 | Reason: Reported Malicious Activity
-89.229.150.140 | Reason: Reported Malicious Activity
-31.179.197.26 | Reason: Reported Malicious Activity
+109.205.211.35 | Country: PL | Confidence: 100% | Reason: Malicious Activity
+87.251.64.144 | Country: PL | Confidence: 100% | Reason: Malicious Activity
+87.251.64.147 | Country: PL | Confidence: 100% | Reason: Malicious Activity
+87.251.64.145 | Country: PL | Confidence: 100% | Reason: Malicious Activity
+85.128.143.9 | Country: PL | Confidence: 100% | Reason: Malicious Activity
+195.3.220.7 | Country: PL | Confidence: 100% | Reason: Malicious Activity
+194.180.48.148 | Country: PL | Confidence: 100% | Reason: Malicious Activity
+93.152.221.6 | Country: PL | Confidence: 100% | Reason: Malicious Activity
+46.77.69.201 | Country: PL | Confidence: 100% | Reason: Malicious Activity
+91.204.161.79 | Country: PL | Confidence: 100% | Reason: Malicious Activity
+87.251.64.176 | Country: PL | Confidence: 100% | Reason: Malicious Activity
+87.251.64.149 | Country: PL | Confidence: 100% | Reason: Malicious Activity
+57.128.213.187 | Country: PL | Confidence: 100% | Reason: Malicious Activity
+87.251.64.141 | Country: PL | Confidence: 100% | Reason: Malicious Activity
+57.128.218.144 | Country: PL | Confidence: 100% | Reason: Malicious Activity
+83.168.88.41 | Country: PL | Confidence: 100% | Reason: Malicious Activity
+193.111.117.35 | Country: PL | Confidence: 100% | Reason: Malicious Activity
+93.152.221.38 | Country: PL | Confidence: 100% | Reason: Malicious Activity
+87.251.64.156 | Country: PL | Confidence: 100% | Reason: Malicious Activity
