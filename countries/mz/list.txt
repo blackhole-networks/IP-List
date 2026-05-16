@@ -1,4 +1,2 @@
-197.219.228.246 | Reason: Reported Malicious Activity
-197.219.210.86 | Reason: Reported Malicious Activity
-197.249.255.56 | Reason: Reported Malicious Activity
-197.219.208.58 | Reason: Reported Malicious Activity
+197.219.210.94 | Country: MZ | Confidence: 100% | Reason: Malicious Activity
+197.219.208.58 | Country: MZ | Confidence: 100% | Reason: Malicious Activity
