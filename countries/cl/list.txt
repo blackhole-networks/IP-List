@@ -3,3 +3,7 @@
 216.155.93.75 | Country: CL | Confidence: 100% | Reason: Malicious Activity
 179.57.170.71 | Country: CL | Confidence: 100% | Reason: Malicious Activity
 200.30.235.78 | Country: CL | Confidence: 100% | Reason: Malicious Activity
+181.190.12.206 | Country: CL | Confidence: 100% | Reason: Malicious Activity
+201.215.40.76 | Country: CL | Confidence: 100% | Reason: Malicious Activity
+128.201.116.242 | Country: CL | Confidence: 100% | Reason: Malicious Activity
+128.201.116.146 | Country: CL | Confidence: 100% | Reason: Malicious Activity
