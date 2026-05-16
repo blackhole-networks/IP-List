@@ -3,10 +3,10 @@
 ## Current Status: Syncing to GitHub
 
 ### Progress Overview
-- **Elapsed Time**: 3s
+- **Elapsed Time**: 13s
 - **Total IPs**: 5000
 - **Processed IPs**: 5000/5000
-- **Files Uploaded**: 0/114
+- **Files Uploaded**: 10/114
 - **Errors**: 1
 
 ### Processing Progress
@@ -16,7 +16,7 @@
 
 ### Upload Progress
 ```
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 0%
+██░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 8%
 ```
 
 
@@ -148,26 +148,6 @@
 
 ## 📝 Recent Activity Logs
 ```
-[2026-05-16T23:23:39.317Z] [INFO] Processed 2600/5000 IPs
-[2026-05-16T23:23:39.317Z] [INFO] Processed 2700/5000 IPs
-[2026-05-16T23:23:39.317Z] [INFO] Processed 2800/5000 IPs
-[2026-05-16T23:23:39.318Z] [INFO] Processed 2900/5000 IPs
-[2026-05-16T23:23:39.318Z] [INFO] Processed 3000/5000 IPs
-[2026-05-16T23:23:39.318Z] [INFO] Processed 3100/5000 IPs
-[2026-05-16T23:23:39.319Z] [INFO] Processed 3200/5000 IPs
-[2026-05-16T23:23:39.319Z] [INFO] Processed 3300/5000 IPs
-[2026-05-16T23:23:39.319Z] [INFO] Processed 3400/5000 IPs
-[2026-05-16T23:23:39.319Z] [INFO] Processed 3500/5000 IPs
-[2026-05-16T23:23:39.320Z] [INFO] Processed 3600/5000 IPs
-[2026-05-16T23:23:39.320Z] [INFO] Processed 3700/5000 IPs
-[2026-05-16T23:23:39.320Z] [INFO] Processed 3800/5000 IPs
-[2026-05-16T23:23:39.320Z] [INFO] Processed 3900/5000 IPs
-[2026-05-16T23:23:39.321Z] [INFO] Processed 4000/5000 IPs
-[2026-05-16T23:23:39.321Z] [INFO] Processed 4100/5000 IPs
-[2026-05-16T23:23:39.321Z] [INFO] Processed 4200/5000 IPs
-[2026-05-16T23:23:39.322Z] [INFO] Processed 4300/5000 IPs
-[2026-05-16T23:23:39.322Z] [INFO] Processed 4400/5000 IPs
-[2026-05-16T23:23:39.322Z] [INFO] Processed 4500/5000 IPs
 [2026-05-16T23:23:39.322Z] [INFO] Processed 4600/5000 IPs
 [2026-05-16T23:23:39.323Z] [INFO] Processed 4700/5000 IPs
 [2026-05-16T23:23:39.323Z] [INFO] Processed 4800/5000 IPs
@@ -178,6 +158,26 @@
 [2026-05-16T23:23:39.333Z] [INFO] === STEP 3: Syncing to GitHub ===
 [2026-05-16T23:23:39.730Z] [ERROR] GitHub Error [README.md]: README.md does not match e3c9eaaadd99c19c3a5f46e96f5faf1b71bbc48d - https://docs.github.com/rest/repos/contents#create-or-update-file-contents
 [2026-05-16T23:23:39.730Z] [INFO] Starting GitHub sync: 114 files to upload
+[2026-05-16T23:23:40.597Z] [INFO] ✓ Uploaded: README.md
+[2026-05-16T23:23:40.597Z] [INFO] Uploading 111 country folders...
+[2026-05-16T23:23:40.597Z] [INFO] Processing Netherlands (NL) - 266 IPs
+[2026-05-16T23:23:41.522Z] [INFO] ✓ Uploaded: countries/nl/list.txt
+[2026-05-16T23:23:41.622Z] [INFO] Processing Romania (RO) - 53 IPs
+[2026-05-16T23:23:42.406Z] [INFO] ✓ Uploaded: countries/ro/list.txt
+[2026-05-16T23:23:42.507Z] [INFO] Processing SG (SG) - 388 IPs
+[2026-05-16T23:23:43.453Z] [INFO] ✓ Uploaded: countries/sg/list.txt
+[2026-05-16T23:23:43.552Z] [INFO] Processing BG (BG) - 30 IPs
+[2026-05-16T23:23:44.380Z] [INFO] ✓ Uploaded: countries/bg/list.txt
+[2026-05-16T23:23:44.480Z] [INFO] Processing Vietnam (VN) - 76 IPs
+[2026-05-16T23:23:45.206Z] [INFO] ✓ Uploaded: countries/vn/list.txt
+[2026-05-16T23:23:45.307Z] [INFO] Processing United Kingdom (GB) - 172 IPs
+[2026-05-16T23:23:46.270Z] [INFO] ✓ Uploaded: countries/gb/list.txt
+[2026-05-16T23:23:46.371Z] [INFO] Processing France (FR) - 133 IPs
+[2026-05-16T23:23:47.174Z] [INFO] ✓ Uploaded: countries/fr/list.txt
+[2026-05-16T23:23:47.274Z] [INFO] Processing United States (US) - 1796 IPs
+[2026-05-16T23:23:48.829Z] [INFO] ✓ Uploaded: countries/us/list.txt
+[2026-05-16T23:23:48.930Z] [INFO] Processing FI (FI) - 22 IPs
+[2026-05-16T23:23:49.740Z] [INFO] ✓ Uploaded: countries/fi/list.txt
 ```
 
 ## ⚠️ Errors (1)
@@ -205,6 +205,6 @@
 - [Countries Folder](./countries/) - Browse by country
 
 ---
-*Last Updated: 2026-05-16T23:23:39.731Z*  
+*Last Updated: 2026-05-16T23:23:49.741Z*  
 *This file is automatically updated during sync operations*  
 *Confidence: 75%+*
