@@ -1,12 +1,1 @@
-137.220.224.11 | Reason: Reported Malicious Activity
-137.220.224.18 | Reason: Reported Malicious Activity
-137.220.224.16 | Reason: Reported Malicious Activity
-137.220.224.4 | Reason: Reported Malicious Activity
-202.79.29.108 | Reason: Reported Malicious Activity
-36.37.203.28 | Reason: Reported Malicious Activity
-175.100.107.238 | Reason: Reported Malicious Activity
-137.220.224.15 | Reason: Reported Malicious Activity
-137.220.224.39 | Reason: Reported Malicious Activity
-137.220.224.7 | Reason: Reported Malicious Activity
-175.100.42.36 | Reason: Reported Malicious Activity
-143.92.53.133 | Reason: Reported Malicious Activity
+175.100.42.36 | Country: KH | Confidence: 100% | Reason: Malicious Activity
