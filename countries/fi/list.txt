@@ -1,0 +1,11 @@
+80.223.163.253 | Reason: Reported Malicious Activity
+62.220.236.203 | Reason: Reported Malicious Activity
+80.223.201.173 | Reason: Reported Malicious Activity
+80.223.198.246 | Reason: Reported Malicious Activity
+80.223.190.179 | Reason: Reported Malicious Activity
+80.223.200.184 | Reason: Reported Malicious Activity
+45.82.110.150 | Reason: Reported Malicious Activity
+95.216.210.177 | Reason: Reported Malicious Activity
+95.217.121.231 | Reason: Reported Malicious Activity
+91.233.116.94 | Reason: Reported Malicious Activity
+95.217.109.26 | Reason: Reported Malicious Activity
