@@ -11,3 +11,11 @@
 209.99.185.239 | Country: CH | Confidence: 100% | Reason: Malicious Activity
 209.99.184.233 | Country: CH | Confidence: 100% | Reason: Malicious Activity
 35.216.144.195 | Country: CH | Confidence: 100% | Reason: Malicious Activity
+179.43.146.226 | Country: CH | Confidence: 100% | Reason: Malicious Activity
+35.216.172.131 | Country: CH | Confidence: 100% | Reason: Malicious Activity
+185.211.94.76 | Country: CH | Confidence: 100% | Reason: Malicious Activity
+107.189.5.121 | Country: CH | Confidence: 100% | Reason: Malicious Activity
+104.244.74.84 | Country: CH | Confidence: 100% | Reason: Malicious Activity
+209.99.184.143 | Country: CH | Confidence: 100% | Reason: Malicious Activity
+157.143.84.87 | Country: CH | Confidence: 100% | Reason: Malicious Activity
+209.99.185.195 | Country: CH | Confidence: 100% | Reason: Malicious Activity
