@@ -1,4 +1,1 @@
-31.220.3.165 | Reason: Reported Malicious Activity
-190.197.31.249 | Reason: Reported Malicious Activity
-190.197.31.229 | Reason: Reported Malicious Activity
-179.42.248.65 | Reason: Reported Malicious Activity
+45.227.254.156 | Country: BZ | Confidence: 100% | Reason: Malicious Activity
