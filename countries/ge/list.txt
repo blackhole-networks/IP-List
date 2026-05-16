@@ -1,3 +1,2 @@
-2.57.217.229 | Reason: Reported Malicious Activity
-91.239.206.123 | Reason: Reported Malicious Activity
-45.84.120.3 | Reason: Reported Malicious Activity
+2.57.217.229 | Country: GE | Confidence: 100% | Reason: Malicious Activity
+185.228.135.197 | Country: GE | Confidence: 100% | Reason: Malicious Activity
