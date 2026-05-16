@@ -1,7 +1,5 @@
-41.128.181.199 | Reason: Reported Malicious Activity
-62.193.106.227 | Reason: Reported Malicious Activity
-196.218.222.18 | Reason: Reported Malicious Activity
-81.10.24.38 | Reason: Reported Malicious Activity
-197.199.224.52 | Reason: Reported Malicious Activity
-197.44.15.210 | Reason: Reported Malicious Activity
-41.153.30.115 | Reason: Reported Malicious Activity
+81.10.24.38 | Country: EG | Confidence: 100% | Reason: Malicious Activity
+41.128.181.199 | Country: EG | Confidence: 100% | Reason: Malicious Activity
+62.193.106.227 | Country: EG | Confidence: 100% | Reason: Malicious Activity
+197.44.15.210 | Country: EG | Confidence: 100% | Reason: Malicious Activity
+41.178.230.115 | Country: EG | Confidence: 100% | Reason: Malicious Activity
