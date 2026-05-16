@@ -10,3 +10,16 @@
 103.86.198.253 | Country: BD | Confidence: 100% | Reason: Malicious Activity
 103.4.145.50 | Country: BD | Confidence: 100% | Reason: Malicious Activity
 103.230.107.236 | Country: BD | Confidence: 100% | Reason: Malicious Activity
+180.210.128.83 | Country: BD | Confidence: 100% | Reason: Malicious Activity
+103.171.37.28 | Country: BD | Confidence: 100% | Reason: Malicious Activity
+103.213.238.91 | Country: BD | Confidence: 100% | Reason: Malicious Activity
+103.157.135.60 | Country: BD | Confidence: 100% | Reason: Malicious Activity
+103.26.136.75 | Country: BD | Confidence: 100% | Reason: Malicious Activity
+182.48.68.82 | Country: BD | Confidence: 100% | Reason: Malicious Activity
+49.0.36.122 | Country: BD | Confidence: 100% | Reason: Malicious Activity
+103.115.252.63 | Country: BD | Confidence: 100% | Reason: Malicious Activity
+103.26.136.173 | Country: BD | Confidence: 100% | Reason: Malicious Activity
+118.179.177.17 | Country: BD | Confidence: 100% | Reason: Malicious Activity
+103.118.79.171 | Country: BD | Confidence: 100% | Reason: Malicious Activity
+202.4.105.149 | Country: BD | Confidence: 100% | Reason: Malicious Activity
+103.252.127.250 | Country: BD | Confidence: 100% | Reason: Malicious Activity
