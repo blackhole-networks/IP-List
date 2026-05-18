@@ -1,2 +1,1 @@
 197.221.232.44 | Country: ZW | Confidence: 100% | Reason: Malicious Activity
-197.221.237.210 | Country: ZW | Confidence: 100% | Reason: Malicious Activity
