@@ -1,7 +1,5 @@
-46.107.215.7 | Country: HU | Confidence: 100% | Reason: Malicious Activity
-194.180.12.23 | Country: HU | Confidence: 100% | Reason: Malicious Activity
-185.187.75.148 | Country: HU | Confidence: 100% | Reason: Malicious Activity
-92.119.122.20 | Country: HU | Confidence: 100% | Reason: Malicious Activity
-80.99.59.161 | Country: HU | Confidence: 100% | Reason: Malicious Activity
+109.122.217.21 | Country: HU | Confidence: 100% | Reason: Malicious Activity
 89.134.210.182 | Country: HU | Confidence: 100% | Reason: Malicious Activity
-77.74.204.204 | Country: HU | Confidence: 100% | Reason: Malicious Activity
+77.74.204.238 | Country: HU | Confidence: 100% | Reason: Malicious Activity
+77.74.204.176 | Country: HU | Confidence: 100% | Reason: Malicious Activity
+46.107.215.7 | Country: HU | Confidence: 100% | Reason: Malicious Activity
