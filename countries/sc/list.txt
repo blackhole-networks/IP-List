@@ -1,7 +1,2 @@
-80.82.70.133 | Reason: Reported Malicious Activity
-160.119.76.64 | Reason: Reported Malicious Activity
-160.119.76.59 | Reason: Reported Malicious Activity
-185.231.33.38 | Reason: Reported Malicious Activity
-160.119.76.21 | Reason: Reported Malicious Activity
-160.119.76.44 | Reason: Reported Malicious Activity
-160.119.76.63 | Reason: Reported Malicious Activity
+41.86.34.139 | Country: SC | Confidence: 100% | Reason: Malicious Activity
+154.70.167.241 | Country: SC | Confidence: 100% | Reason: Malicious Activity
