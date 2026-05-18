@@ -1,1 +1,2 @@
-45.181.86.72 | Reason: Reported Malicious Activity
+168.232.169.186 | Country: HN | Confidence: 100% | Reason: Malicious Activity
+168.228.194.242 | Country: HN | Confidence: 100% | Reason: Malicious Activity
