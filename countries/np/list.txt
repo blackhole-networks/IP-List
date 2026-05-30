@@ -1,3 +1,2 @@
+36.253.9.78 | Country: NP | Confidence: 100% | Reason: Malicious Activity
 202.70.78.237 | Country: NP | Confidence: 100% | Reason: Malicious Activity
-103.130.207.227 | Country: NP | Confidence: 100% | Reason: Malicious Activity
-202.70.82.95 | Country: NP | Confidence: 100% | Reason: Malicious Activity
