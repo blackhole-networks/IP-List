@@ -1,9 +1,4 @@
-41.111.220.193 | Country: DZ | Confidence: 100% | Reason: Malicious Activity
+105.96.13.6 | Country: DZ | Confidence: 100% | Reason: Malicious Activity
+154.241.40.34 | Country: DZ | Confidence: 100% | Reason: Malicious Activity
 129.45.84.119 | Country: DZ | Confidence: 100% | Reason: Malicious Activity
 41.111.178.165 | Country: DZ | Confidence: 100% | Reason: Malicious Activity
-129.45.85.141 | Country: DZ | Confidence: 100% | Reason: Malicious Activity
-197.140.18.248 | Country: DZ | Confidence: 100% | Reason: Malicious Activity
-197.140.11.157 | Country: DZ | Confidence: 100% | Reason: Malicious Activity
-154.241.16.92 | Country: DZ | Confidence: 100% | Reason: Malicious Activity
-41.111.171.131 | Country: DZ | Confidence: 100% | Reason: Malicious Activity
-105.96.13.6 | Country: DZ | Confidence: 100% | Reason: Malicious Activity
