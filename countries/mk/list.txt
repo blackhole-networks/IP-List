@@ -1,6 +1,2 @@
-80.77.146.194 | Country: MK | Confidence: 100% | Reason: Malicious Activity
 188.44.20.30 | Country: MK | Confidence: 100% | Reason: Malicious Activity
-80.77.146.62 | Country: MK | Confidence: 100% | Reason: Malicious Activity
-188.44.20.32 | Country: MK | Confidence: 100% | Reason: Malicious Activity
 185.193.240.246 | Country: MK | Confidence: 100% | Reason: Malicious Activity
-188.44.20.24 | Country: MK | Confidence: 100% | Reason: Malicious Activity
