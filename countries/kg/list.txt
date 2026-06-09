@@ -1,1 +1,1 @@
-80.72.177.69 | Country: KG | Confidence: 100% | Reason: Malicious Activity
+92.62.74.41 | Country: KG | Confidence: 100% | Reason: Malicious Activity
