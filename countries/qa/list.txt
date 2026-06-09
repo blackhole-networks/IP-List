@@ -1,2 +1,1 @@
-37.186.40.54 | Country: QA | Confidence: 100% | Reason: Malicious Activity
 20.173.116.24 | Country: QA | Confidence: 100% | Reason: Malicious Activity
