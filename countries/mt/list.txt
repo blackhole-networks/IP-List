@@ -1,2 +1,1 @@
 88.203.20.57 | Country: MT | Confidence: 100% | Reason: Malicious Activity
-141.8.54.170 | Country: MT | Confidence: 100% | Reason: Malicious Activity
