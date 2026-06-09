@@ -1,0 +1,2 @@
+197.255.143.123 | Country: CV | Confidence: 100% | Reason: Malicious Activity
+197.255.134.161 | Country: CV | Confidence: 100% | Reason: Malicious Activity
