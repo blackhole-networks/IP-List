@@ -1,8 +1,4 @@
-197.5.145.102 | Country: TN | Confidence: 100% | Reason: Malicious Activity
-197.5.145.150 | Country: TN | Confidence: 100% | Reason: Malicious Activity
 197.5.145.114 | Country: TN | Confidence: 100% | Reason: Malicious Activity
-197.0.56.79 | Country: TN | Confidence: 100% | Reason: Malicious Activity
-165.50.74.15 | Country: TN | Confidence: 100% | Reason: Malicious Activity
-102.110.7.160 | Country: TN | Confidence: 100% | Reason: Malicious Activity
-193.95.24.117 | Country: TN | Confidence: 100% | Reason: Malicious Activity
-102.110.11.48 | Country: TN | Confidence: 100% | Reason: Malicious Activity
+197.5.145.150 | Country: TN | Confidence: 100% | Reason: Malicious Activity
+102.110.7.34 | Country: TN | Confidence: 100% | Reason: Malicious Activity
+197.5.145.102 | Country: TN | Confidence: 100% | Reason: Malicious Activity
