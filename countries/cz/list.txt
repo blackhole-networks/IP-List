@@ -1,4 +1,1 @@
 89.185.225.24 | Country: CZ | Confidence: 100% | Reason: Malicious Activity
-78.44.192.210 | Country: CZ | Confidence: 100% | Reason: Malicious Activity
-45.156.223.31 | Country: CZ | Confidence: 100% | Reason: Malicious Activity
-46.135.100.183 | Country: CZ | Confidence: 100% | Reason: Malicious Activity
