@@ -1,9 +1,4 @@
-166.1.88.225 | Country: VE | Confidence: 100% | Reason: Malicious Activity
-190.153.21.124 | Country: VE | Confidence: 100% | Reason: Malicious Activity
 190.6.32.107 | Country: VE | Confidence: 100% | Reason: Malicious Activity
-201.249.205.94 | Country: VE | Confidence: 100% | Reason: Malicious Activity
-181.233.91.138 | Country: VE | Confidence: 100% | Reason: Malicious Activity
-181.233.91.137 | Country: VE | Confidence: 100% | Reason: Malicious Activity
-190.120.253.59 | Country: VE | Confidence: 100% | Reason: Malicious Activity
-190.205.188.43 | Country: VE | Confidence: 100% | Reason: Malicious Activity
+166.1.88.225 | Country: VE | Confidence: 100% | Reason: Malicious Activity
 200.11.241.106 | Country: VE | Confidence: 100% | Reason: Malicious Activity
+190.205.188.43 | Country: VE | Confidence: 100% | Reason: Malicious Activity
