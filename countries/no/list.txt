@@ -1,4 +1,4 @@
-89.185.81.112 | Country: NO | Confidence: 100% | Reason: Malicious Activity
-89.10.237.211 | Country: NO | Confidence: 100% | Reason: Malicious Activity
-84.210.211.66 | Country: NO | Confidence: 100% | Reason: Malicious Activity
-185.243.218.230 | Country: NO | Confidence: 100% | Reason: Malicious Activity
+185.101.33.182 | Country: NO | Confidence: 100% | Reason: Malicious Activity
+51.120.68.234 | Country: NO | Confidence: 100% | Reason: Malicious Activity
+109.247.132.149 | Country: NO | Confidence: 100% | Reason: Malicious Activity
+185.12.59.118 | Country: NO | Confidence: 100% | Reason: Malicious Activity
