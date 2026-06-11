@@ -1,10 +1,6 @@
-46.151.182.201 | Country: LU | Confidence: 100% | Reason: Malicious Activity
 64.89.161.184 | Country: LU | Confidence: 100% | Reason: Malicious Activity
+64.89.160.43 | Country: LU | Confidence: 100% | Reason: Malicious Activity
 46.151.182.34 | Country: LU | Confidence: 100% | Reason: Malicious Activity
+46.151.182.69 | Country: LU | Confidence: 100% | Reason: Malicious Activity
 64.89.160.167 | Country: LU | Confidence: 100% | Reason: Malicious Activity
-64.89.160.111 | Country: LU | Confidence: 100% | Reason: Malicious Activity
-83.142.209.206 | Country: LU | Confidence: 100% | Reason: Malicious Activity
 46.151.182.186 | Country: LU | Confidence: 100% | Reason: Malicious Activity
-83.142.209.244 | Country: LU | Confidence: 100% | Reason: Malicious Activity
-46.151.182.58 | Country: LU | Confidence: 100% | Reason: Malicious Activity
-46.151.182.107 | Country: LU | Confidence: 100% | Reason: Malicious Activity
