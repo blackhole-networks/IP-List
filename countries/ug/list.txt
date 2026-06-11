@@ -1,5 +1,2 @@
 196.0.242.54 | Country: UG | Confidence: 100% | Reason: Malicious Activity
-196.0.120.6 | Country: UG | Confidence: 100% | Reason: Malicious Activity
-196.0.3.188 | Country: UG | Confidence: 100% | Reason: Malicious Activity
-129.205.2.18 | Country: UG | Confidence: 100% | Reason: Malicious Activity
-102.218.89.110 | Country: UG | Confidence: 100% | Reason: Malicious Activity
+154.72.201.206 | Country: UG | Confidence: 100% | Reason: Malicious Activity
