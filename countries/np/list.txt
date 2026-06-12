@@ -1,1 +1,2 @@
-111.119.60.40 | Country: NP | Confidence: 100% | Reason: Malicious Activity
+157.119.70.200 | Country: NP | Confidence: 100% | Reason: Malicious Activity
+161.248.217.23 | Country: NP | Confidence: 100% | Reason: Malicious Activity
