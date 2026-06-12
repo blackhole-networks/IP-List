@@ -1,4 +1,1 @@
 41.86.34.139 | Country: SC | Confidence: 100% | Reason: Malicious Activity
-45.194.67.130 | Country: SC | Confidence: 100% | Reason: Malicious Activity
-45.194.67.14 | Country: SC | Confidence: 100% | Reason: Malicious Activity
-45.194.67.10 | Country: SC | Confidence: 100% | Reason: Malicious Activity
