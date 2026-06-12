@@ -1,0 +1,2 @@
+45.155.47.125 | Country: OM | Confidence: 100% | Reason: Malicious Activity
+46.40.250.98 | Country: OM | Confidence: 100% | Reason: Malicious Activity
