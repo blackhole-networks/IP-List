@@ -1,2 +1,5 @@
-37.35.64.85 | Country: XK | Confidence: 100% | Reason: Malicious Activity
+185.222.138.237 | Country: XK | Confidence: 100% | Reason: Malicious Activity
+185.191.165.57 | Country: XK | Confidence: 100% | Reason: Malicious Activity
 84.22.62.247 | Country: XK | Confidence: 100% | Reason: Malicious Activity
+37.35.64.85 | Country: XK | Confidence: 100% | Reason: Malicious Activity
+185.188.217.195 | Country: XK | Confidence: 100% | Reason: Malicious Activity
