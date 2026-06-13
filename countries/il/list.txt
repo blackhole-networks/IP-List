@@ -1,8 +1,12 @@
-20.217.83.56 | Country: IL | Confidence: 100% | Reason: Malicious Activity
+20.217.81.166 | Country: IL | Confidence: 100% | Reason: Malicious Activity
+82.102.165.200 | Country: IL | Confidence: 100% | Reason: Malicious Activity
+109.226.27.227 | Country: IL | Confidence: 100% | Reason: Malicious Activity
 20.217.83.128 | Country: IL | Confidence: 100% | Reason: Malicious Activity
-85.64.187.88 | Country: IL | Confidence: 100% | Reason: Malicious Activity
+185.162.127.214 | Country: IL | Confidence: 100% | Reason: Malicious Activity
+103.95.119.103 | Country: IL | Confidence: 100% | Reason: Malicious Activity
 82.102.149.88 | Country: IL | Confidence: 100% | Reason: Malicious Activity
-2.55.122.202 | Country: IL | Confidence: 100% | Reason: Malicious Activity
-93.172.160.53 | Country: IL | Confidence: 100% | Reason: Malicious Activity
-95.35.29.192 | Country: IL | Confidence: 100% | Reason: Malicious Activity
+2.55.88.51 | Country: IL | Confidence: 100% | Reason: Malicious Activity
+2.54.84.186 | Country: IL | Confidence: 100% | Reason: Malicious Activity
 37.25.36.197 | Country: IL | Confidence: 100% | Reason: Malicious Activity
+85.159.165.216 | Country: IL | Confidence: 100% | Reason: Malicious Activity
+82.102.188.117 | Country: IL | Confidence: 100% | Reason: Malicious Activity
