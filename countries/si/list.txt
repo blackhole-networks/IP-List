@@ -1,4 +1,1 @@
-176.65.134.46 | Country: SI | Confidence: 100% | Reason: Malicious Activity
-31.57.184.247 | Country: SI | Confidence: 100% | Reason: Malicious Activity
-77.38.104.186 | Country: SI | Confidence: 100% | Reason: Malicious Activity
-176.65.134.3 | Country: SI | Confidence: 100% | Reason: Malicious Activity
+31.57.216.45 | Country: SI | Confidence: 100% | Reason: Malicious Activity
