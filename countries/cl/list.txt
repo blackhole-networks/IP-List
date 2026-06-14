@@ -1,9 +1,8 @@
+201.186.40.161 | Country: CL | Confidence: 100% | Reason: Malicious Activity
 186.103.169.12 | Country: CL | Confidence: 100% | Reason: Malicious Activity
-179.57.170.71 | Country: CL | Confidence: 100% | Reason: Malicious Activity
-186.10.86.130 | Country: CL | Confidence: 100% | Reason: Malicious Activity
 136.248.247.188 | Country: CL | Confidence: 100% | Reason: Malicious Activity
-45.236.128.46 | Country: CL | Confidence: 100% | Reason: Malicious Activity
-45.166.144.212 | Country: CL | Confidence: 100% | Reason: Malicious Activity
-186.64.123.124 | Country: CL | Confidence: 100% | Reason: Malicious Activity
+186.67.158.116 | Country: CL | Confidence: 100% | Reason: Malicious Activity
+216.155.93.75 | Country: CL | Confidence: 100% | Reason: Malicious Activity
 136.248.242.166 | Country: CL | Confidence: 100% | Reason: Malicious Activity
+201.186.40.250 | Country: CL | Confidence: 100% | Reason: Malicious Activity
 170.82.129.8 | Country: CL | Confidence: 100% | Reason: Malicious Activity
