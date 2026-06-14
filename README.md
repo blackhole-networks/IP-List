@@ -6,7 +6,7 @@ Automated daily sync of up to **10,000 recent malicious IPs** from AbuseIPDB, or
 
 - **Total Malicious IPs**: 10,000
 - **Countries Represented**: 131
-- **Last Updated**: 2026-06-14T22:02:22.832Z
+- **Last Updated**: 2026-06-14T22:04:34.881Z
 - **Next Update**: Automatically runs daily at midnight UTC
 - **Confidence Threshold**: 75%+
 - **Data Source**: AbuseIPDB API
@@ -161,6 +161,6 @@ For more detailed statistics and analysis, see [STATISTICS.md](./STATISTICS.md).
 
 **🤖 Automated System** | **📅 Daily Updates** | **🛡️ 10,000 IPs** | **🌍 131 Countries**
 
-*Last Updated: 2026-06-14T22:02:22.832Z*  
+*Last Updated: 2026-06-14T22:04:34.881Z*  
 *Next Update: Daily at 00:00 UTC*  
 *Data Source: AbuseIPDB (Confidence 75%+)*
