@@ -1,1 +1,2 @@
-195.222.57.190 | Country: BA | Confidence: 100% | Reason: Malicious Activity
+195.222.43.138 | Country: BA | Confidence: 100% | Reason: Malicious Activity
+195.222.57.183 | Country: BA | Confidence: 100% | Reason: Malicious Activity
