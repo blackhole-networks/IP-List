@@ -1,3 +1,1 @@
-190.61.100.197 | Country: GT | Confidence: 100% | Reason: Malicious Activity
-45.228.235.116 | Country: GT | Confidence: 100% | Reason: Malicious Activity
 190.151.130.5 | Country: GT | Confidence: 100% | Reason: Malicious Activity
