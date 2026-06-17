@@ -3,32 +3,32 @@
 ## Overview
 - **Total Malicious IPs**: 10000
 - **Invalid IPs Filtered**: 0
-- **Countries Represented**: 128
+- **Countries Represented**: 117
 - **Fallback Lookups Performed**: 0
 - **Unknown Country IPs**: 0
-- **Last Updated**: 2026-06-16T22:12:25.893Z
+- **Last Updated**: 2026-06-17T22:02:19.847Z
 
 ## Top Countries by IP Count
-1. **United States** (US): 3323 IPs
-2. **China** (CN): 905 IPs
-3. **Germany** (DE): 671 IPs
-4. **Netherlands** (NL): 656 IPs
-5. **United Kingdom** (GB): 648 IPs
-6. **France** (FR): 378 IPs
-7. **SG** (SG): 350 IPs
-8. **India** (IN): 316 IPs
-9. **HK** (HK): 271 IPs
-10. **South Korea** (KR): 246 IPs
-11. **Brazil** (BR): 191 IPs
-12. **Japan** (JP): 191 IPs
-13. **Russia** (RU): 151 IPs
-14. **Canada** (CA): 127 IPs
-15. **Vietnam** (VN): 126 IPs
-16. **MY** (MY): 125 IPs
-17. **Indonesia** (ID): 118 IPs
-18. **Thailand** (TH): 66 IPs
-19. **Romania** (RO): 61 IPs
-20. **TW** (TW): 61 IPs
+1. **United States** (US): 3152 IPs
+2. **China** (CN): 898 IPs
+3. **United Kingdom** (GB): 675 IPs
+4. **Germany** (DE): 672 IPs
+5. **Netherlands** (NL): 610 IPs
+6. **SG** (SG): 411 IPs
+7. **France** (FR): 387 IPs
+8. **India** (IN): 324 IPs
+9. **HK** (HK): 303 IPs
+10. **South Korea** (KR): 270 IPs
+11. **Japan** (JP): 265 IPs
+12. **Brazil** (BR): 181 IPs
+13. **Russia** (RU): 167 IPs
+14. **Canada** (CA): 136 IPs
+15. **MY** (MY): 127 IPs
+16. **Vietnam** (VN): 119 IPs
+17. **Indonesia** (ID): 111 IPs
+18. **TW** (TW): 80 IPs
+19. **BG** (BG): 61 IPs
+20. **Romania** (RO): 53 IPs
 
 ## Data Source
 - **Provider**: AbuseIPDB
