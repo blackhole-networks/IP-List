@@ -1,3 +1,1 @@
 109.206.241.199 | Country: EE | Confidence: 100% | Reason: Malicious Activity
-83.166.50.15 | Country: EE | Confidence: 100% | Reason: Malicious Activity
-45.12.28.218 | Country: EE | Confidence: 100% | Reason: Malicious Activity
