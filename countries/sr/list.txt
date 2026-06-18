@@ -1,2 +1,1 @@
-200.7.150.235 | Country: SR | Confidence: 100% | Reason: Malicious Activity
-186.179.145.226 | Country: SR | Confidence: 100% | Reason: Malicious Activity
+200.7.150.236 | Country: SR | Confidence: 100% | Reason: Malicious Activity
