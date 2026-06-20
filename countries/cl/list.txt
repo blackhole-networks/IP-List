@@ -1,10 +1,10 @@
-179.57.170.71 | Country: CL | Confidence: 100% | Reason: Malicious Activity
+200.89.69.247 | Country: CL | Confidence: 100% | Reason: Malicious Activity
+190.110.111.26 | Country: CL | Confidence: 100% | Reason: Malicious Activity
+45.4.1.130 | Country: CL | Confidence: 100% | Reason: Malicious Activity
 136.248.247.188 | Country: CL | Confidence: 100% | Reason: Malicious Activity
-136.248.242.166 | Country: CL | Confidence: 100% | Reason: Malicious Activity
-201.215.98.39 | Country: CL | Confidence: 100% | Reason: Malicious Activity
-170.82.129.8 | Country: CL | Confidence: 100% | Reason: Malicious Activity
+186.103.169.12 | Country: CL | Confidence: 100% | Reason: Malicious Activity
+201.186.40.161 | Country: CL | Confidence: 100% | Reason: Malicious Activity
+179.57.170.71 | Country: CL | Confidence: 100% | Reason: Malicious Activity
 45.166.144.212 | Country: CL | Confidence: 100% | Reason: Malicious Activity
 216.155.93.75 | Country: CL | Confidence: 100% | Reason: Malicious Activity
-186.103.169.12 | Country: CL | Confidence: 100% | Reason: Malicious Activity
-190.121.23.218 | Country: CL | Confidence: 100% | Reason: Malicious Activity
-179.57.56.103 | Country: CL | Confidence: 100% | Reason: Malicious Activity
+186.10.86.130 | Country: CL | Confidence: 100% | Reason: Malicious Activity
