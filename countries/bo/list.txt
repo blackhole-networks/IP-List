@@ -1,8 +1,10 @@
-190.181.27.27 | Country: BO | Confidence: 100% | Reason: Malicious Activity
-200.58.83.79 | Country: BO | Confidence: 100% | Reason: Malicious Activity
+132.251.234.110 | Country: BO | Confidence: 100% | Reason: Malicious Activity
+181.188.140.101 | Country: BO | Confidence: 100% | Reason: Malicious Activity
 181.188.148.74 | Country: BO | Confidence: 100% | Reason: Malicious Activity
-181.188.176.242 | Country: BO | Confidence: 100% | Reason: Malicious Activity
-190.186.29.213 | Country: BO | Confidence: 100% | Reason: Malicious Activity
-181.188.172.6 | Country: BO | Confidence: 100% | Reason: Malicious Activity
+190.181.27.27 | Country: BO | Confidence: 100% | Reason: Malicious Activity
+190.181.4.12 | Country: BO | Confidence: 100% | Reason: Malicious Activity
 181.115.192.10 | Country: BO | Confidence: 100% | Reason: Malicious Activity
+181.188.176.242 | Country: BO | Confidence: 100% | Reason: Malicious Activity
 138.84.37.118 | Country: BO | Confidence: 100% | Reason: Malicious Activity
+181.115.171.217 | Country: BO | Confidence: 100% | Reason: Malicious Activity
+190.129.122.185 | Country: BO | Confidence: 100% | Reason: Malicious Activity
