@@ -1,1 +1,2 @@
-95.105.192.186 | Country: SK | Confidence: 100% | Reason: Malicious Activity
+81.162.80.64 | Country: SK | Confidence: 100% | Reason: Malicious Activity
+91.223.69.87 | Country: SK | Confidence: 100% | Reason: Malicious Activity
