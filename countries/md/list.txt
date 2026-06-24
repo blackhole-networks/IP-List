@@ -1,8 +1,6 @@
-45.86.86.242 | Country: MD | Confidence: 100% | Reason: Malicious Activity
-194.180.191.8 | Country: MD | Confidence: 100% | Reason: Malicious Activity
-176.123.2.173 | Country: MD | Confidence: 100% | Reason: Malicious Activity
 91.208.197.64 | Country: MD | Confidence: 100% | Reason: Malicious Activity
-176.123.10.82 | Country: MD | Confidence: 100% | Reason: Malicious Activity
-92.115.5.137 | Country: MD | Confidence: 100% | Reason: Malicious Activity
-176.123.8.39 | Country: MD | Confidence: 100% | Reason: Malicious Activity
-45.15.225.137 | Country: MD | Confidence: 100% | Reason: Malicious Activity
+45.15.225.120 | Country: MD | Confidence: 100% | Reason: Malicious Activity
+217.156.65.251 | Country: MD | Confidence: 100% | Reason: Malicious Activity
+212.0.217.14 | Country: MD | Confidence: 100% | Reason: Malicious Activity
+91.208.184.128 | Country: MD | Confidence: 100% | Reason: Malicious Activity
+185.162.141.34 | Country: MD | Confidence: 100% | Reason: Malicious Activity
