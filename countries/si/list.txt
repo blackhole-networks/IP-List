@@ -1,6 +1,7 @@
-31.57.216.45 | Country: SI | Confidence: 100% | Reason: Malicious Activity
-102.220.160.26 | Country: SI | Confidence: 100% | Reason: Malicious Activity
-102.220.160.38 | Country: SI | Confidence: 100% | Reason: Malicious Activity
 102.220.160.154 | Country: SI | Confidence: 100% | Reason: Malicious Activity
 176.65.134.3 | Country: SI | Confidence: 100% | Reason: Malicious Activity
 176.65.134.34 | Country: SI | Confidence: 100% | Reason: Malicious Activity
+102.220.160.38 | Country: SI | Confidence: 100% | Reason: Malicious Activity
+102.220.160.42 | Country: SI | Confidence: 100% | Reason: Malicious Activity
+102.220.160.26 | Country: SI | Confidence: 100% | Reason: Malicious Activity
+102.220.160.39 | Country: SI | Confidence: 100% | Reason: Malicious Activity
