@@ -1,2 +1,5 @@
-62.38.220.145 | Country: GR | Confidence: 100% | Reason: Malicious Activity
+194.63.239.149 | Country: GR | Confidence: 100% | Reason: Malicious Activity
+212.251.0.147 | Country: GR | Confidence: 100% | Reason: Malicious Activity
+85.72.53.103 | Country: GR | Confidence: 100% | Reason: Malicious Activity
 83.235.16.111 | Country: GR | Confidence: 100% | Reason: Malicious Activity
+94.65.254.144 | Country: GR | Confidence: 100% | Reason: Malicious Activity
