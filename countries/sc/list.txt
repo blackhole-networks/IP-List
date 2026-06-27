@@ -1,7 +1,8 @@
+45.194.67.147 | Country: SC | Confidence: 100% | Reason: Malicious Activity
 45.194.67.28 | Country: SC | Confidence: 100% | Reason: Malicious Activity
-45.194.67.26 | Country: SC | Confidence: 100% | Reason: Malicious Activity
-45.194.67.146 | Country: SC | Confidence: 100% | Reason: Malicious Activity
 45.194.67.27 | Country: SC | Confidence: 100% | Reason: Malicious Activity
-45.194.67.29 | Country: SC | Confidence: 100% | Reason: Malicious Activity
 41.86.34.139 | Country: SC | Confidence: 100% | Reason: Malicious Activity
-196.251.121.149 | Country: SC | Confidence: 100% | Reason: Malicious Activity
+45.194.67.146 | Country: SC | Confidence: 100% | Reason: Malicious Activity
+45.194.67.26 | Country: SC | Confidence: 100% | Reason: Malicious Activity
+45.194.67.29 | Country: SC | Confidence: 100% | Reason: Malicious Activity
+45.194.67.30 | Country: SC | Confidence: 100% | Reason: Malicious Activity
