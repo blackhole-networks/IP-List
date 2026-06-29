@@ -1,3 +1,3 @@
-190.167.237.191 | Country: DO | Confidence: 100% | Reason: Malicious Activity
+179.52.173.63 | Country: DO | Confidence: 100% | Reason: Malicious Activity
 45.172.152.74 | Country: DO | Confidence: 100% | Reason: Malicious Activity
-2001:1308:2887:4c00:20a:f7ff:fe7e:75c8 | Country: DO | Confidence: 100% | Reason: Malicious Activity
+190.167.237.191 | Country: DO | Confidence: 100% | Reason: Malicious Activity
