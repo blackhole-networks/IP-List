@@ -1,1 +1,3 @@
 200.115.141.58 | Country: PA | Confidence: 100% | Reason: Malicious Activity
+190.14.223.70 | Country: PA | Confidence: 100% | Reason: Malicious Activity
+190.32.246.14 | Country: PA | Confidence: 100% | Reason: Malicious Activity
