@@ -1,2 +1,2 @@
+185.237.125.109 | Country: DK | Confidence: 100% | Reason: Malicious Activity
 152.115.152.218 | Country: DK | Confidence: 100% | Reason: Malicious Activity
-87.54.18.202 | Country: DK | Confidence: 100% | Reason: Malicious Activity
