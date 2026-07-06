@@ -1,1 +1,1 @@
-41.215.146.195 | Country: SZ | Confidence: 100% | Reason: Malicious Activity
+143.105.155.129 | Country: SZ | Confidence: 100% | Reason: Malicious Activity
