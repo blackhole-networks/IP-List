@@ -1,7 +1,9 @@
-62.164.148.87 | Country: UZ | Confidence: 100% | Reason: Malicious Activity
 194.107.115.199 | Country: UZ | Confidence: 100% | Reason: Malicious Activity
-94.158.49.223 | Country: UZ | Confidence: 100% | Reason: Malicious Activity
+195.158.26.59 | Country: UZ | Confidence: 100% | Reason: Malicious Activity
 89.126.211.166 | Country: UZ | Confidence: 100% | Reason: Malicious Activity
+213.230.66.211 | Country: UZ | Confidence: 100% | Reason: Malicious Activity
+213.230.111.14 | Country: UZ | Confidence: 100% | Reason: Malicious Activity
+94.158.49.223 | Country: UZ | Confidence: 100% | Reason: Malicious Activity
 84.54.115.46 | Country: UZ | Confidence: 100% | Reason: Malicious Activity
+90.156.199.227 | Country: UZ | Confidence: 100% | Reason: Malicious Activity
 176.101.56.126 | Country: UZ | Confidence: 100% | Reason: Malicious Activity
-185.191.141.115 | Country: UZ | Confidence: 100% | Reason: Malicious Activity
