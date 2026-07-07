@@ -1,4 +1,6 @@
-83.208.70.70 | Country: CZ | Confidence: 100% | Reason: Malicious Activity
+31.31.79.131 | Country: CZ | Confidence: 100% | Reason: Malicious Activity
+93.91.153.26 | Country: CZ | Confidence: 100% | Reason: Malicious Activity
 92.62.233.214 | Country: CZ | Confidence: 100% | Reason: Malicious Activity
 46.135.109.64 | Country: CZ | Confidence: 100% | Reason: Malicious Activity
 78.44.192.210 | Country: CZ | Confidence: 100% | Reason: Malicious Activity
+46.13.207.39 | Country: CZ | Confidence: 100% | Reason: Malicious Activity
