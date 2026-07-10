@@ -1,1 +1,2 @@
-72.27.50.169 | Country: JM | Confidence: 100% | Reason: Malicious Activity
+72.27.96.27 | Country: JM | Confidence: 100% | Reason: Malicious Activity
+69.160.104.166 | Country: JM | Confidence: 100% | Reason: Malicious Activity
