@@ -5,8 +5,8 @@ Automated daily sync of up to **10,000 recent malicious IPs** from AbuseIPDB, or
 ## 📊 Current Statistics
 
 - **Total Malicious IPs**: 10,000
-- **Countries Represented**: 137
-- **Last Updated**: 2026-07-10T22:04:36.266Z
+- **Countries Represented**: 131
+- **Last Updated**: 2026-07-11T22:04:16.247Z
 - **Next Update**: Automatically runs daily at midnight UTC
 - **Confidence Threshold**: 75%+
 - **Data Source**: AbuseIPDB API
@@ -15,29 +15,29 @@ Automated daily sync of up to **10,000 recent malicious IPs** from AbuseIPDB, or
 
 | Rank | Country | Code | IP Count | List |
 |------|---------|------|----------|------|
-| 1 | United States | US | 2,859 | [View](./countries/us/list.txt) |
-| 2 | China | CN | 1,075 | [View](./countries/cn/list.txt) |
-| 3 | Germany | DE | 571 | [View](./countries/de/list.txt) |
-| 4 | Netherlands | NL | 553 | [View](./countries/nl/list.txt) |
-| 5 | United Kingdom | GB | 504 | [View](./countries/gb/list.txt) |
-| 6 | France | FR | 456 | [View](./countries/fr/list.txt) |
-| 7 | SG | SG | 402 | [View](./countries/sg/list.txt) |
-| 8 | South Korea | KR | 334 | [View](./countries/kr/list.txt) |
-| 9 | India | IN | 299 | [View](./countries/in/list.txt) |
-| 10 | HK | HK | 281 | [View](./countries/hk/list.txt) |
-| 11 | Brazil | BR | 222 | [View](./countries/br/list.txt) |
-| 12 | Japan | JP | 175 | [View](./countries/jp/list.txt) |
+| 1 | United States | US | 2,952 | [View](./countries/us/list.txt) |
+| 2 | China | CN | 1,083 | [View](./countries/cn/list.txt) |
+| 3 | Germany | DE | 678 | [View](./countries/de/list.txt) |
+| 4 | Netherlands | NL | 663 | [View](./countries/nl/list.txt) |
+| 5 | United Kingdom | GB | 605 | [View](./countries/gb/list.txt) |
+| 6 | SG | SG | 363 | [View](./countries/sg/list.txt) |
+| 7 | France | FR | 337 | [View](./countries/fr/list.txt) |
+| 8 | South Korea | KR | 322 | [View](./countries/kr/list.txt) |
+| 9 | HK | HK | 277 | [View](./countries/hk/list.txt) |
+| 10 | India | IN | 246 | [View](./countries/in/list.txt) |
+| 11 | Brazil | BR | 207 | [View](./countries/br/list.txt) |
+| 12 | Japan | JP | 182 | [View](./countries/jp/list.txt) |
 | 13 | Russia | RU | 174 | [View](./countries/ru/list.txt) |
-| 14 | Vietnam | VN | 166 | [View](./countries/vn/list.txt) |
-| 15 | Indonesia | ID | 142 | [View](./countries/id/list.txt) |
-| 16 | MY | MY | 141 | [View](./countries/my/list.txt) |
-| 17 | Canada | CA | 107 | [View](./countries/ca/list.txt) |
-| 18 | Thailand | TH | 105 | [View](./countries/th/list.txt) |
-| 19 | TW | TW | 89 | [View](./countries/tw/list.txt) |
-| 20 | Romania | RO | 80 | [View](./countries/ro/list.txt) |
+| 14 | Vietnam | VN | 137 | [View](./countries/vn/list.txt) |
+| 15 | MY | MY | 128 | [View](./countries/my/list.txt) |
+| 16 | Indonesia | ID | 124 | [View](./countries/id/list.txt) |
+| 17 | Canada | CA | 109 | [View](./countries/ca/list.txt) |
+| 18 | Thailand | TH | 86 | [View](./countries/th/list.txt) |
+| 19 | TW | TW | 83 | [View](./countries/tw/list.txt) |
+| 20 | AO | AO | 73 | [View](./countries/ao/list.txt) |
 
 
-*...and 117 more countries*
+*...and 111 more countries*
 
 
 ## 📁 Repository Structure
@@ -47,7 +47,7 @@ Automated daily sync of up to **10,000 recent malicious IPs** from AbuseIPDB, or
 ├── README.md              # This file - Overview and stats
 ├── STATISTICS.md          # Detailed statistics and analysis
 ├── list.txt               # Complete global list (10,000 IPs)
-└── countries/             # Country-specific folders (137 countries)
+└── countries/             # Country-specific folders (131 countries)
     ├── us/list.txt        # United States IPs
     ├── cn/list.txt        # China IPs
     ├── ru/list.txt        # Russia IPs
@@ -129,7 +129,7 @@ done < list.txt
 - **Invalid IPs Filtered**: 0
 - **Fallback Lookups**: 0
 - **Unknown Countries**: 0
-- **Unique Countries**: 137
+- **Unique Countries**: 131
 
 ## ⚠️ Important Notes
 
@@ -159,8 +159,8 @@ For more detailed statistics and analysis, see [STATISTICS.md](./STATISTICS.md).
 
 ---
 
-**🤖 Automated System** | **📅 Daily Updates** | **🛡️ 10,000 IPs** | **🌍 137 Countries**
+**🤖 Automated System** | **📅 Daily Updates** | **🛡️ 10,000 IPs** | **🌍 131 Countries**
 
-*Last Updated: 2026-07-10T22:04:36.266Z*  
+*Last Updated: 2026-07-11T22:04:16.247Z*  
 *Next Update: Daily at 00:00 UTC*  
 *Data Source: AbuseIPDB (Confidence 75%+)*
