@@ -1,2 +1,3 @@
-31.171.125.179 | Country: AZ | Confidence: 100% | Reason: Malicious Activity
 94.20.62.126 | Country: AZ | Confidence: 100% | Reason: Malicious Activity
+80.69.55.177 | Country: AZ | Confidence: 100% | Reason: Malicious Activity
+31.171.125.179 | Country: AZ | Confidence: 100% | Reason: Malicious Activity
