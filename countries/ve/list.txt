@@ -1,3 +1,2 @@
-201.242.76.71 | Country: VE | Confidence: 100% | Reason: Malicious Activity
 201.249.192.30 | Country: VE | Confidence: 100% | Reason: Malicious Activity
 201.249.205.94 | Country: VE | Confidence: 100% | Reason: Malicious Activity
