@@ -1,2 +1,1 @@
-123.176.7.131 | Country: MV | Confidence: 100% | Reason: Malicious Activity
-216.183.210.235 | Country: MV | Confidence: 100% | Reason: Malicious Activity
+69.94.89.185 | Country: MV | Confidence: 100% | Reason: Malicious Activity
