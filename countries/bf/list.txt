@@ -1,1 +1,2 @@
 196.28.242.198 | Country: BF | Confidence: 100% | Reason: Malicious Activity
+102.179.10.224 | Country: BF | Confidence: 100% | Reason: Malicious Activity
