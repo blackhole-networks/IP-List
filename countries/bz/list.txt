@@ -1,4 +1,2 @@
-45.227.254.156 | Country: BZ | Confidence: 100% | Reason: Malicious Activity
-45.227.254.154 | Country: BZ | Confidence: 100% | Reason: Malicious Activity
 45.227.254.152 | Country: BZ | Confidence: 100% | Reason: Malicious Activity
 45.227.254.155 | Country: BZ | Confidence: 100% | Reason: Malicious Activity
