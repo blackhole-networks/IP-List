@@ -1,3 +1,7 @@
+154.127.69.4 | Country: LY | Confidence: 100% | Reason: Malicious Activity
+154.127.69.20 | Country: LY | Confidence: 100% | Reason: Malicious Activity
 102.203.197.6 | Country: LY | Confidence: 100% | Reason: Malicious Activity
+154.127.69.22 | Country: LY | Confidence: 100% | Reason: Malicious Activity
 102.211.7.162 | Country: LY | Confidence: 100% | Reason: Malicious Activity
 102.38.3.107 | Country: LY | Confidence: 100% | Reason: Malicious Activity
+154.127.69.9 | Country: LY | Confidence: 100% | Reason: Malicious Activity
