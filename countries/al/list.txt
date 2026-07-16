@@ -1,3 +1,1 @@
-193.163.187.107 | Country: AL | Confidence: 100% | Reason: Malicious Activity
-130.49.189.41 | Country: AL | Confidence: 100% | Reason: Malicious Activity
 188.93.112.20 | Country: AL | Confidence: 100% | Reason: Malicious Activity
