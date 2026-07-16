@@ -1,2 +1,1 @@
-149.102.232.93 | Country: SK | Confidence: 100% | Reason: Malicious Activity
 46.229.233.132 | Country: SK | Confidence: 100% | Reason: Malicious Activity
