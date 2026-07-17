@@ -1,4 +1,1 @@
-205.209.67.3 | Country: SY | Confidence: 100% | Reason: Malicious Activity
-91.144.32.178 | Country: SY | Confidence: 100% | Reason: Malicious Activity
 91.144.21.210 | Country: SY | Confidence: 100% | Reason: Malicious Activity
-213.217.32.10 | Country: SY | Confidence: 100% | Reason: Malicious Activity
