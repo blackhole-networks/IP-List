@@ -1,1 +1,2 @@
-109.107.253.234 | Country: JO | Confidence: 100% | Reason: Malicious Activity
+91.106.108.102 | Country: JO | Confidence: 100% | Reason: Malicious Activity
+92.253.93.24 | Country: JO | Confidence: 100% | Reason: Malicious Activity
