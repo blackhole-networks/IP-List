@@ -1,10 +1,10 @@
-81.192.46.29 | Country: MA | Confidence: 100% | Reason: Malicious Activity
-196.92.7.247 | Country: MA | Confidence: 100% | Reason: Malicious Activity
-160.174.129.232 | Country: MA | Confidence: 100% | Reason: Malicious Activity
-81.192.46.49 | Country: MA | Confidence: 100% | Reason: Malicious Activity
-81.192.46.45 | Country: MA | Confidence: 100% | Reason: Malicious Activity
+102.54.246.130 | Country: MA | Confidence: 100% | Reason: Malicious Activity
+196.119.163.183 | Country: MA | Confidence: 100% | Reason: Malicious Activity
 81.192.46.32 | Country: MA | Confidence: 100% | Reason: Malicious Activity
+81.192.46.45 | Country: MA | Confidence: 100% | Reason: Malicious Activity
+81.192.46.29 | Country: MA | Confidence: 100% | Reason: Malicious Activity
+197.230.149.202 | Country: MA | Confidence: 100% | Reason: Malicious Activity
 197.153.57.103 | Country: MA | Confidence: 100% | Reason: Malicious Activity
-102.50.250.77 | Country: MA | Confidence: 100% | Reason: Malicious Activity
-154.144.243.93 | Country: MA | Confidence: 100% | Reason: Malicious Activity
 196.92.7.249 | Country: MA | Confidence: 100% | Reason: Malicious Activity
+196.92.7.246 | Country: MA | Confidence: 100% | Reason: Malicious Activity
+81.192.46.49 | Country: MA | Confidence: 100% | Reason: Malicious Activity
