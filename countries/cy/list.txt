@@ -1,2 +1,1 @@
-77.92.27.57 | Country: CY | Confidence: 100% | Reason: Malicious Activity
-213.149.181.32 | Country: CY | Confidence: 100% | Reason: Malicious Activity
+213.7.172.239 | Country: CY | Confidence: 100% | Reason: Malicious Activity
