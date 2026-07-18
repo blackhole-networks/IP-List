@@ -1,5 +1,5 @@
-80.87.83.229 | Country: GH | Confidence: 100% | Reason: Malicious Activity
-197.251.249.75 | Country: GH | Confidence: 100% | Reason: Malicious Activity
-80.87.66.11 | Country: GH | Confidence: 100% | Reason: Malicious Activity
+41.242.115.83 | Country: GH | Confidence: 100% | Reason: Malicious Activity
+41.139.37.122 | Country: GH | Confidence: 100% | Reason: Malicious Activity
 41.242.115.84 | Country: GH | Confidence: 100% | Reason: Malicious Activity
-102.176.82.190 | Country: GH | Confidence: 100% | Reason: Malicious Activity
+80.87.83.229 | Country: GH | Confidence: 100% | Reason: Malicious Activity
+154.160.19.190 | Country: GH | Confidence: 100% | Reason: Malicious Activity
