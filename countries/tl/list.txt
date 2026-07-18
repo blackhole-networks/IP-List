@@ -1,1 +1,2 @@
-103.143.164.80 | Country: TL | Confidence: 100% | Reason: Malicious Activity
+103.143.164.100 | Country: TL | Confidence: 100% | Reason: Malicious Activity
+103.70.66.246 | Country: TL | Confidence: 100% | Reason: Malicious Activity
