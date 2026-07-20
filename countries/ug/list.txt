@@ -1,1 +1,4 @@
-196.0.34.106 | Country: UG | Confidence: 100% | Reason: Malicious Activity
+196.0.3.188 | Country: UG | Confidence: 100% | Reason: Malicious Activity
+196.0.242.54 | Country: UG | Confidence: 100% | Reason: Malicious Activity
+196.0.113.110 | Country: UG | Confidence: 100% | Reason: Malicious Activity
+196.0.107.158 | Country: UG | Confidence: 100% | Reason: Malicious Activity
