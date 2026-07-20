@@ -1,1 +1,1 @@
-109.75.50.17 | Country: TJ | Confidence: 100% | Reason: Malicious Activity
+62.122.139.7 | Country: TJ | Confidence: 100% | Reason: Malicious Activity
