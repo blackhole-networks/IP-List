@@ -1,3 +1,5 @@
-180.94.74.82 | Country: AF | Confidence: 100% | Reason: Malicious Activity
-149.54.62.54 | Country: AF | Confidence: 100% | Reason: Malicious Activity
-149.54.81.38 | Country: AF | Confidence: 100% | Reason: Malicious Activity
+149.54.40.94 | Country: AF | Confidence: 100% | Reason: Malicious Activity
+74.118.81.170 | Country: AF | Confidence: 100% | Reason: Malicious Activity
+149.54.62.118 | Country: AF | Confidence: 100% | Reason: Malicious Activity
+74.118.81.174 | Country: AF | Confidence: 100% | Reason: Malicious Activity
+149.54.62.58 | Country: AF | Confidence: 100% | Reason: Malicious Activity
