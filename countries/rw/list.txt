@@ -1,5 +1,3 @@
-41.186.86.12 | Country: RW | Confidence: 100% | Reason: Malicious Activity
-197.243.14.52 | Country: RW | Confidence: 100% | Reason: Malicious Activity
+197.243.109.171 | Country: RW | Confidence: 100% | Reason: Malicious Activity
 196.216.81.126 | Country: RW | Confidence: 100% | Reason: Malicious Activity
-197.243.18.136 | Country: RW | Confidence: 100% | Reason: Malicious Activity
-196.12.128.158 | Country: RW | Confidence: 100% | Reason: Malicious Activity
+197.243.14.52 | Country: RW | Confidence: 100% | Reason: Malicious Activity
