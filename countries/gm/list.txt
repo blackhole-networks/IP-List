@@ -1,1 +1,2 @@
-197.231.129.6 | Country: GM | Confidence: 100% | Reason: Malicious Activity
+197.255.205.120 | Country: GM | Confidence: 100% | Reason: Malicious Activity
+197.255.202.149 | Country: GM | Confidence: 100% | Reason: Malicious Activity
