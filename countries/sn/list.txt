@@ -1,4 +1,3 @@
-213.154.80.51 | Country: SN | Confidence: 100% | Reason: Malicious Activity
-196.250.200.4 | Country: SN | Confidence: 100% | Reason: Malicious Activity
-41.208.147.131 | Country: SN | Confidence: 100% | Reason: Malicious Activity
 41.214.55.235 | Country: SN | Confidence: 100% | Reason: Malicious Activity
+41.208.147.131 | Country: SN | Confidence: 100% | Reason: Malicious Activity
+154.124.236.44 | Country: SN | Confidence: 100% | Reason: Malicious Activity
