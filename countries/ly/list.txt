@@ -1,13 +1,1 @@
-154.127.69.29 | Country: LY | Confidence: 100% | Reason: Malicious Activity
-102.211.174.96 | Country: LY | Confidence: 100% | Reason: Malicious Activity
-154.127.69.5 | Country: LY | Confidence: 100% | Reason: Malicious Activity
-154.127.69.8 | Country: LY | Confidence: 100% | Reason: Malicious Activity
-154.127.69.13 | Country: LY | Confidence: 100% | Reason: Malicious Activity
-154.127.69.2 | Country: LY | Confidence: 100% | Reason: Malicious Activity
-154.127.69.25 | Country: LY | Confidence: 100% | Reason: Malicious Activity
-154.127.69.27 | Country: LY | Confidence: 100% | Reason: Malicious Activity
-154.127.69.15 | Country: LY | Confidence: 100% | Reason: Malicious Activity
 102.211.7.162 | Country: LY | Confidence: 100% | Reason: Malicious Activity
-154.127.69.11 | Country: LY | Confidence: 100% | Reason: Malicious Activity
-154.127.69.19 | Country: LY | Confidence: 100% | Reason: Malicious Activity
-154.127.69.12 | Country: LY | Confidence: 100% | Reason: Malicious Activity
