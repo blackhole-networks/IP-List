@@ -1,7 +1,11 @@
 196.188.93.169 | Country: ET | Confidence: 100% | Reason: Malicious Activity
-196.191.151.172 | Country: ET | Confidence: 100% | Reason: Malicious Activity
-196.188.116.56 | Country: ET | Confidence: 100% | Reason: Malicious Activity
 196.190.43.162 | Country: ET | Confidence: 100% | Reason: Malicious Activity
-196.189.124.218 | Country: ET | Confidence: 100% | Reason: Malicious Activity
+196.188.187.85 | Country: ET | Confidence: 100% | Reason: Malicious Activity
+196.188.187.205 | Country: ET | Confidence: 100% | Reason: Malicious Activity
 196.190.220.168 | Country: ET | Confidence: 100% | Reason: Malicious Activity
-196.190.180.18 | Country: ET | Confidence: 100% | Reason: Malicious Activity
+196.189.155.89 | Country: ET | Confidence: 100% | Reason: Malicious Activity
+196.188.116.56 | Country: ET | Confidence: 100% | Reason: Malicious Activity
+196.189.59.226 | Country: ET | Confidence: 100% | Reason: Malicious Activity
+196.188.97.120 | Country: ET | Confidence: 100% | Reason: Malicious Activity
+196.189.124.218 | Country: ET | Confidence: 100% | Reason: Malicious Activity
+197.156.83.94 | Country: ET | Confidence: 100% | Reason: Malicious Activity
