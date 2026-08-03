@@ -1,1 +1,2 @@
-186.96.213.147 | Country: TT | Confidence: 100% | Reason: Malicious Activity
+190.58.30.98 | Country: TT | Confidence: 100% | Reason: Malicious Activity
+38.190.144.4 | Country: TT | Confidence: 100% | Reason: Malicious Activity
