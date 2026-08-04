@@ -1,2 +1,1 @@
-137.255.13.211 | Country: BJ | Confidence: 100% | Reason: Malicious Activity
-41.74.7.154 | Country: BJ | Confidence: 100% | Reason: Malicious Activity
+154.65.30.24 | Country: BJ | Confidence: 100% | Reason: Malicious Activity
