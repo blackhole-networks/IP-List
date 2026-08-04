@@ -1,7 +1,6 @@
-200.46.177.242 | Country: PA | Confidence: 100% | Reason: Malicious Activity
 190.123.46.136 | Country: PA | Confidence: 100% | Reason: Malicious Activity
-45.225.135.178 | Country: PA | Confidence: 100% | Reason: Malicious Activity
-194.165.16.162 | Country: PA | Confidence: 100% | Reason: Malicious Activity
 191.98.196.19 | Country: PA | Confidence: 100% | Reason: Malicious Activity
-190.34.154.84 | Country: PA | Confidence: 100% | Reason: Malicious Activity
+194.165.16.162 | Country: PA | Confidence: 100% | Reason: Malicious Activity
+45.225.135.161 | Country: PA | Confidence: 100% | Reason: Malicious Activity
 45.225.135.179 | Country: PA | Confidence: 100% | Reason: Malicious Activity
+45.225.135.169 | Country: PA | Confidence: 100% | Reason: Malicious Activity
