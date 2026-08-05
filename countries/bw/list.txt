@@ -1,3 +1,4 @@
-41.79.35.253 | Country: BW | Confidence: 100% | Reason: Malicious Activity
-168.167.228.123 | Country: BW | Confidence: 100% | Reason: Malicious Activity
+41.216.209.67 | Country: BW | Confidence: 100% | Reason: Malicious Activity
 168.167.72.132 | Country: BW | Confidence: 100% | Reason: Malicious Activity
+168.167.228.123 | Country: BW | Confidence: 100% | Reason: Malicious Activity
+83.143.26.22 | Country: BW | Confidence: 100% | Reason: Malicious Activity
