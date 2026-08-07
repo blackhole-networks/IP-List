@@ -1,2 +1,3 @@
-139.5.156.254 | Country: LA | Confidence: 100% | Reason: Malicious Activity
 103.114.147.217 | Country: LA | Confidence: 100% | Reason: Malicious Activity
+160.187.128.43 | Country: LA | Confidence: 100% | Reason: Malicious Activity
+183.182.120.218 | Country: LA | Confidence: 100% | Reason: Malicious Activity
