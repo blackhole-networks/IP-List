@@ -1,3 +1,2 @@
-94.20.62.126 | Country: AZ | Confidence: 100% | Reason: Malicious Activity
 37.61.78.122 | Country: AZ | Confidence: 100% | Reason: Malicious Activity
-31.171.80.255 | Country: AZ | Confidence: 100% | Reason: Malicious Activity
+94.20.62.126 | Country: AZ | Confidence: 100% | Reason: Malicious Activity
