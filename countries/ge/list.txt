@@ -1,5 +1,5 @@
-93.177.157.179 | Country: GE | Confidence: 100% | Reason: Malicious Activity
 91.231.218.149 | Country: GE | Confidence: 100% | Reason: Malicious Activity
-91.207.181.201 | Country: GE | Confidence: 100% | Reason: Malicious Activity
-92.51.101.162 | Country: GE | Confidence: 100% | Reason: Malicious Activity
 194.31.8.12 | Country: GE | Confidence: 100% | Reason: Malicious Activity
+95.137.187.54 | Country: GE | Confidence: 100% | Reason: Malicious Activity
+93.177.151.72 | Country: GE | Confidence: 100% | Reason: Malicious Activity
+37.232.59.241 | Country: GE | Confidence: 100% | Reason: Malicious Activity
