@@ -1,4 +1,1 @@
 185.64.25.226 | Country: OM | Confidence: 100% | Reason: Malicious Activity
-5.32.252.156 | Country: OM | Confidence: 100% | Reason: Malicious Activity
-212.146.164.180 | Country: OM | Confidence: 100% | Reason: Malicious Activity
-37.28.5.24 | Country: OM | Confidence: 100% | Reason: Malicious Activity
