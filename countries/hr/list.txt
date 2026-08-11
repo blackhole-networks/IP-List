@@ -1,2 +1,1 @@
-188.129.82.235 | Country: HR | Confidence: 100% | Reason: Malicious Activity
-5.181.2.48 | Country: HR | Confidence: 100% | Reason: Malicious Activity
+149.102.247.251 | Country: HR | Confidence: 100% | Reason: Malicious Activity
