@@ -1,4 +1,2 @@
-186.33.26.83 | Country: SV | Confidence: 100% | Reason: Malicious Activity
-186.33.25.234 | Country: SV | Confidence: 100% | Reason: Malicious Activity
-186.33.26.86 | Country: SV | Confidence: 100% | Reason: Malicious Activity
-186.33.25.235 | Country: SV | Confidence: 100% | Reason: Malicious Activity
+201.77.63.14 | Country: SV | Confidence: 100% | Reason: Malicious Activity
+138.97.142.254 | Country: SV | Confidence: 100% | Reason: Malicious Activity
