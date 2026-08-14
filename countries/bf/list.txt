@@ -1,2 +1,3 @@
-102.178.145.63 | Country: BF | Confidence: 100% | Reason: Malicious Activity
-102.180.60.149 | Country: BF | Confidence: 100% | Reason: Malicious Activity
+102.178.121.105 | Country: BF | Confidence: 100% | Reason: Malicious Activity
+102.179.144.126 | Country: BF | Confidence: 100% | Reason: Malicious Activity
+102.180.8.122 | Country: BF | Confidence: 100% | Reason: Malicious Activity
