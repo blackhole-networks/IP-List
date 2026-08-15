@@ -1,1 +1,2 @@
-109.74.74.222 | Country: TJ | Confidence: 100% | Reason: Malicious Activity
+185.177.2.228 | Country: TJ | Confidence: 100% | Reason: Malicious Activity
+109.75.62.244 | Country: TJ | Confidence: 100% | Reason: Malicious Activity
