@@ -1,2 +1,1 @@
 154.0.30.137 | Country: CI | Confidence: 100% | Reason: Malicious Activity
-41.189.41.243 | Country: CI | Confidence: 100% | Reason: Malicious Activity
