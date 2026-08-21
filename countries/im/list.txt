@@ -1,2 +1,1 @@
-185.74.59.11 | Country: IM | Confidence: 100% | Reason: Malicious Activity
-194.33.44.39 | Country: IM | Confidence: 100% | Reason: Malicious Activity
+194.33.44.45 | Country: IM | Confidence: 100% | Reason: Malicious Activity
