@@ -1,7 +1,7 @@
 81.193.216.17 | Country: PT | Confidence: 100% | Reason: Malicious Activity
-94.132.133.21 | Country: PT | Confidence: 100% | Reason: Malicious Activity
-85.240.193.104 | Country: PT | Confidence: 100% | Reason: Malicious Activity
+188.37.191.95 | Country: PT | Confidence: 100% | Reason: Malicious Activity
+94.132.0.254 | Country: PT | Confidence: 100% | Reason: Malicious Activity
+87.103.126.54 | Country: PT | Confidence: 100% | Reason: Malicious Activity
 94.61.159.91 | Country: PT | Confidence: 100% | Reason: Malicious Activity
-2.83.103.59 | Country: PT | Confidence: 100% | Reason: Malicious Activity
-148.63.148.21 | Country: PT | Confidence: 100% | Reason: Malicious Activity
-89.152.82.108 | Country: PT | Confidence: 100% | Reason: Malicious Activity
+85.240.193.104 | Country: PT | Confidence: 100% | Reason: Malicious Activity
+89.153.136.156 | Country: PT | Confidence: 100% | Reason: Malicious Activity
