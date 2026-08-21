@@ -1,1 +1,2 @@
-196.170.60.179 | Country: TG | Confidence: 100% | Reason: Malicious Activity
+196.170.20.107 | Country: TG | Confidence: 100% | Reason: Malicious Activity
+196.171.55.114 | Country: TG | Confidence: 100% | Reason: Malicious Activity
