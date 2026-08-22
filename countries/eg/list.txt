@@ -1,8 +1,6 @@
-41.38.91.188 | Country: EG | Confidence: 100% | Reason: Malicious Activity
-41.32.37.195 | Country: EG | Confidence: 100% | Reason: Malicious Activity
+196.218.16.52 | Country: EG | Confidence: 100% | Reason: Malicious Activity
+197.44.15.210 | Country: EG | Confidence: 100% | Reason: Malicious Activity
+196.221.164.156 | Country: EG | Confidence: 100% | Reason: Malicious Activity
 197.199.224.52 | Country: EG | Confidence: 100% | Reason: Malicious Activity
-197.43.241.230 | Country: EG | Confidence: 100% | Reason: Malicious Activity
-41.36.51.148 | Country: EG | Confidence: 100% | Reason: Malicious Activity
-84.233.23.175 | Country: EG | Confidence: 100% | Reason: Malicious Activity
-197.164.129.101 | Country: EG | Confidence: 100% | Reason: Malicious Activity
-197.163.229.245 | Country: EG | Confidence: 100% | Reason: Malicious Activity
+41.33.199.13 | Country: EG | Confidence: 100% | Reason: Malicious Activity
+41.38.31.83 | Country: EG | Confidence: 100% | Reason: Malicious Activity
