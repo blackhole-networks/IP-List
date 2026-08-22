@@ -1,7 +1,8 @@
-191.44.125.68 | Country: SY | Confidence: 100% | Reason: Malicious Activity
-91.144.21.210 | Country: SY | Confidence: 100% | Reason: Malicious Activity
+205.209.67.3 | Country: SY | Confidence: 100% | Reason: Malicious Activity
+185.225.41.192 | Country: SY | Confidence: 100% | Reason: Malicious Activity
+185.134.132.70 | Country: SY | Confidence: 100% | Reason: Malicious Activity
+191.44.71.57 | Country: SY | Confidence: 100% | Reason: Malicious Activity
+31.9.50.79 | Country: SY | Confidence: 100% | Reason: Malicious Activity
+205.209.65.70 | Country: SY | Confidence: 100% | Reason: Malicious Activity
 191.44.91.69 | Country: SY | Confidence: 100% | Reason: Malicious Activity
 191.44.125.39 | Country: SY | Confidence: 100% | Reason: Malicious Activity
-191.44.125.34 | Country: SY | Confidence: 100% | Reason: Malicious Activity
-185.134.132.70 | Country: SY | Confidence: 100% | Reason: Malicious Activity
-31.9.50.79 | Country: SY | Confidence: 100% | Reason: Malicious Activity
