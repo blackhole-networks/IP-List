@@ -1,1 +1,2 @@
-164.160.10.58 | Country: LR | Confidence: 100% | Reason: Malicious Activity
+102.214.136.53 | Country: LR | Confidence: 100% | Reason: Malicious Activity
+102.214.136.54 | Country: LR | Confidence: 100% | Reason: Malicious Activity
