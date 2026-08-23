@@ -1,1 +1,2 @@
+149.102.247.227 | Country: HR | Confidence: 100% | Reason: Malicious Activity
 149.102.247.245 | Country: HR | Confidence: 100% | Reason: Malicious Activity
