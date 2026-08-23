@@ -1,1 +1,1 @@
-80.248.67.19 | Country: TG | Confidence: 100% | Reason: Malicious Activity
+80.248.74.236 | Country: TG | Confidence: 100% | Reason: Malicious Activity
