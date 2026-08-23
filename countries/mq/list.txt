@@ -1,3 +1,1 @@
-93.176.34.126 | Country: MQ | Confidence: 100% | Reason: Malicious Activity
-92.144.239.200 | Country: MQ | Confidence: 100% | Reason: Malicious Activity
-188.115.123.166 | Country: MQ | Confidence: 100% | Reason: Malicious Activity
+188.115.69.37 | Country: MQ | Confidence: 100% | Reason: Malicious Activity
