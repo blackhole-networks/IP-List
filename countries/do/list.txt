@@ -1,2 +1,1 @@
 45.172.152.74 | Country: DO | Confidence: 100% | Reason: Malicious Activity
-38.56.21.66 | Country: DO | Confidence: 100% | Reason: Malicious Activity
