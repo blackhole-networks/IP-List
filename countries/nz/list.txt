@@ -1,1 +1,2 @@
-222.155.178.217 | Country: NZ | Confidence: 100% | Reason: Malicious Activity
+27.252.177.148 | Country: NZ | Confidence: 100% | Reason: Malicious Activity
+222.152.223.108 | Country: NZ | Confidence: 100% | Reason: Malicious Activity
