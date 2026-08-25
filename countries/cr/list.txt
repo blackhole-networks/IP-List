@@ -1,7 +1,4 @@
-186.177.88.78 | Country: CR | Confidence: 100% | Reason: Malicious Activity
-200.229.144.236 | Country: CR | Confidence: 100% | Reason: Malicious Activity
-181.119.189.86 | Country: CR | Confidence: 100% | Reason: Malicious Activity
-143.202.162.212 | Country: CR | Confidence: 100% | Reason: Malicious Activity
-186.177.88.62 | Country: CR | Confidence: 100% | Reason: Malicious Activity
-186.177.88.55 | Country: CR | Confidence: 100% | Reason: Malicious Activity
-186.177.88.42 | Country: CR | Confidence: 100% | Reason: Malicious Activity
+186.177.88.21 | Country: CR | Confidence: 100% | Reason: Malicious Activity
+186.177.88.81 | Country: CR | Confidence: 100% | Reason: Malicious Activity
+186.177.70.52 | Country: CR | Confidence: 100% | Reason: Malicious Activity
+201.205.241.198 | Country: CR | Confidence: 100% | Reason: Malicious Activity
