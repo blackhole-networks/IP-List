@@ -1,1 +1,2 @@
-185.236.132.113 | Country: BH | Confidence: 100% | Reason: Malicious Activity
+87.252.96.45 | Country: BH | Confidence: 100% | Reason: Malicious Activity
+109.63.15.42 | Country: BH | Confidence: 100% | Reason: Malicious Activity
