@@ -1,3 +1,1 @@
-196.251.121.131 | Country: SC | Confidence: 100% | Reason: Malicious Activity
-196.251.121.23 | Country: SC | Confidence: 100% | Reason: Malicious Activity
-196.251.121.128 | Country: SC | Confidence: 100% | Reason: Malicious Activity
+196.251.121.150 | Country: SC | Confidence: 100% | Reason: Malicious Activity
