@@ -1,3 +1,4 @@
 45.224.97.244 | Country: EC | Confidence: 100% | Reason: Malicious Activity
 186.47.77.39 | Country: EC | Confidence: 100% | Reason: Malicious Activity
-186.68.83.105 | Country: EC | Confidence: 100% | Reason: Malicious Activity
+201.183.221.130 | Country: EC | Confidence: 100% | Reason: Malicious Activity
+191.100.22.249 | Country: EC | Confidence: 100% | Reason: Malicious Activity
