@@ -1,5 +1,1 @@
-212.98.158.3 | Country: LB | Confidence: 100% | Reason: Malicious Activity
-212.98.158.7 | Country: LB | Confidence: 100% | Reason: Malicious Activity
-212.98.158.2 | Country: LB | Confidence: 100% | Reason: Malicious Activity
-212.98.158.4 | Country: LB | Confidence: 100% | Reason: Malicious Activity
-178.135.49.183 | Country: LB | Confidence: 100% | Reason: Malicious Activity
+185.187.94.206 | Country: LB | Confidence: 100% | Reason: Malicious Activity
