@@ -1,6 +1,2 @@
 156.232.63.189 | Country: CV | Confidence: 100% | Reason: Malicious Activity
 102.220.167.1 | Country: CV | Confidence: 100% | Reason: Malicious Activity
-154.203.234.114 | Country: CV | Confidence: 100% | Reason: Malicious Activity
-41.221.192.28 | Country: CV | Confidence: 100% | Reason: Malicious Activity
-165.90.106.140 | Country: CV | Confidence: 100% | Reason: Malicious Activity
-41.221.203.141 | Country: CV | Confidence: 100% | Reason: Malicious Activity
