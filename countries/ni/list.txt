@@ -1,2 +1,1 @@
-186.1.23.46 | Country: NI | Confidence: 100% | Reason: Malicious Activity
-170.84.134.172 | Country: NI | Confidence: 100% | Reason: Malicious Activity
+45.170.224.170 | Country: NI | Confidence: 100% | Reason: Malicious Activity
