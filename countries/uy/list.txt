@@ -1,2 +1,1 @@
-179.27.130.226 | Country: UY | Confidence: 100% | Reason: Malicious Activity
-190.64.49.18 | Country: UY | Confidence: 100% | Reason: Malicious Activity
+200.40.87.242 | Country: UY | Confidence: 100% | Reason: Malicious Activity
