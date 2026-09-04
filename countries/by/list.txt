@@ -1,2 +1,1 @@
-93.125.3.29 | Country: BY | Confidence: 100% | Reason: Malicious Activity
-176.60.193.216 | Country: BY | Confidence: 100% | Reason: Malicious Activity
+82.209.209.50 | Country: BY | Confidence: 100% | Reason: Malicious Activity
