@@ -1,3 +1,2 @@
+24.48.229.52 | Country: PR | Confidence: 100% | Reason: Malicious Activity
 67.206.199.61 | Country: PR | Confidence: 100% | Reason: Malicious Activity
-67.206.199.37 | Country: PR | Confidence: 100% | Reason: Malicious Activity
-67.206.199.46 | Country: PR | Confidence: 100% | Reason: Malicious Activity
