@@ -1,1 +1,3 @@
-185.40.123.252 | Country: IS | Confidence: 100% | Reason: Malicious Activity
+45.133.193.6 | Country: IS | Confidence: 100% | Reason: Malicious Activity
+45.133.193.23 | Country: IS | Confidence: 100% | Reason: Malicious Activity
+185.40.122.250 | Country: IS | Confidence: 100% | Reason: Malicious Activity
