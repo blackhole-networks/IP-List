@@ -1,3 +1,7 @@
-79.72.3.119 | Country: SA | Confidence: 100% | Reason: Malicious Activity
+84.13.145.234 | Country: SA | Confidence: 100% | Reason: Malicious Activity
+84.8.125.155 | Country: SA | Confidence: 100% | Reason: Malicious Activity
+84.13.136.9 | Country: SA | Confidence: 100% | Reason: Malicious Activity
+145.241.159.130 | Country: SA | Confidence: 100% | Reason: Malicious Activity
+84.13.153.129 | Country: SA | Confidence: 100% | Reason: Malicious Activity
+5.163.188.26 | Country: SA | Confidence: 100% | Reason: Malicious Activity
 79.170.53.30 | Country: SA | Confidence: 100% | Reason: Malicious Activity
-46.251.135.241 | Country: SA | Confidence: 100% | Reason: Malicious Activity
