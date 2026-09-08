@@ -1,2 +1,4 @@
+41.63.63.211 | Country: ZM | Confidence: 100% | Reason: Malicious Activity
+41.63.32.22 | Country: ZM | Confidence: 100% | Reason: Malicious Activity
+196.46.202.234 | Country: ZM | Confidence: 100% | Reason: Malicious Activity
 41.173.43.34 | Country: ZM | Confidence: 100% | Reason: Malicious Activity
-102.220.158.247 | Country: ZM | Confidence: 100% | Reason: Malicious Activity
