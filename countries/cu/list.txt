@@ -1,4 +1,1 @@
-152.206.3.50 | Country: CU | Confidence: 100% | Reason: Malicious Activity
 181.225.233.247 | Country: CU | Confidence: 100% | Reason: Malicious Activity
-200.55.167.2 | Country: CU | Confidence: 100% | Reason: Malicious Activity
-190.6.76.90 | Country: CU | Confidence: 100% | Reason: Malicious Activity
