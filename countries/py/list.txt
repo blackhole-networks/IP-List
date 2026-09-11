@@ -1,9 +1,7 @@
-170.51.42.62 | Country: PY | Confidence: 100% | Reason: Malicious Activity
-170.83.241.55 | Country: PY | Confidence: 100% | Reason: Malicious Activity
-181.103.2.38 | Country: PY | Confidence: 100% | Reason: Malicious Activity
-186.182.105.49 | Country: PY | Confidence: 100% | Reason: Malicious Activity
-190.128.166.110 | Country: PY | Confidence: 100% | Reason: Malicious Activity
-186.16.210.130 | Country: PY | Confidence: 100% | Reason: Malicious Activity
-143.202.209.172 | Country: PY | Confidence: 100% | Reason: Malicious Activity
-181.127.105.191 | Country: PY | Confidence: 100% | Reason: Malicious Activity
 200.61.51.82 | Country: PY | Confidence: 100% | Reason: Malicious Activity
+186.182.105.49 | Country: PY | Confidence: 100% | Reason: Malicious Activity
+38.79.43.194 | Country: PY | Confidence: 100% | Reason: Malicious Activity
+170.51.42.62 | Country: PY | Confidence: 100% | Reason: Malicious Activity
+138.59.224.2 | Country: PY | Confidence: 100% | Reason: Malicious Activity
+181.103.2.38 | Country: PY | Confidence: 100% | Reason: Malicious Activity
+181.94.228.134 | Country: PY | Confidence: 100% | Reason: Malicious Activity
