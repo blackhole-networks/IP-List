@@ -1,1 +1,2 @@
 157.97.132.67 | Country: CY | Confidence: 100% | Reason: Malicious Activity
+212.31.100.230 | Country: CY | Confidence: 100% | Reason: Malicious Activity
