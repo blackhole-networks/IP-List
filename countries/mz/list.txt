@@ -1,6 +1,3 @@
 41.94.1.199 | Country: MZ | Confidence: 100% | Reason: Malicious Activity
-197.219.228.242 | Country: MZ | Confidence: 100% | Reason: Malicious Activity
-197.219.228.250 | Country: MZ | Confidence: 100% | Reason: Malicious Activity
 197.219.208.58 | Country: MZ | Confidence: 100% | Reason: Malicious Activity
-197.219.208.38 | Country: MZ | Confidence: 100% | Reason: Malicious Activity
-197.219.228.246 | Country: MZ | Confidence: 100% | Reason: Malicious Activity
+197.219.228.250 | Country: MZ | Confidence: 100% | Reason: Malicious Activity
