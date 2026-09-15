@@ -1,2 +1,1 @@
-188.247.90.83 | Country: JO | Confidence: 100% | Reason: Malicious Activity
-92.241.36.70 | Country: JO | Confidence: 100% | Reason: Malicious Activity
+194.165.158.96 | Country: JO | Confidence: 100% | Reason: Malicious Activity
