@@ -1,6 +1,5 @@
-195.222.57.183 | Country: BA | Confidence: 100% | Reason: Malicious Activity
-80.65.90.155 | Country: BA | Confidence: 100% | Reason: Malicious Activity
-77.78.224.160 | Country: BA | Confidence: 100% | Reason: Malicious Activity
-195.222.59.154 | Country: BA | Confidence: 100% | Reason: Malicious Activity
-77.78.203.131 | Country: BA | Confidence: 100% | Reason: Malicious Activity
 195.222.57.190 | Country: BA | Confidence: 100% | Reason: Malicious Activity
+80.65.90.155 | Country: BA | Confidence: 100% | Reason: Malicious Activity
+89.111.241.217 | Country: BA | Confidence: 100% | Reason: Malicious Activity
+195.222.57.183 | Country: BA | Confidence: 100% | Reason: Malicious Activity
+31.47.22.177 | Country: BA | Confidence: 100% | Reason: Malicious Activity
