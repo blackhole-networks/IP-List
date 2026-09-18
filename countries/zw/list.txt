@@ -1,4 +1,2 @@
-196.27.121.26 | Country: ZW | Confidence: 100% | Reason: Malicious Activity
-41.174.111.231 | Country: ZW | Confidence: 100% | Reason: Malicious Activity
 197.221.232.44 | Country: ZW | Confidence: 100% | Reason: Malicious Activity
-41.60.206.107 | Country: ZW | Confidence: 100% | Reason: Malicious Activity
+41.60.123.48 | Country: ZW | Confidence: 100% | Reason: Malicious Activity
