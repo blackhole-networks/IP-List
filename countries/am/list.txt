@@ -1,3 +1,9 @@
-217.113.31.221 | Country: AM | Confidence: 100% | Reason: Malicious Activity
+212.34.243.172 | Country: AM | Confidence: 100% | Reason: Malicious Activity
 185.223.125.125 | Country: AM | Confidence: 100% | Reason: Malicious Activity
+212.73.75.5 | Country: AM | Confidence: 100% | Reason: Malicious Activity
 176.32.193.16 | Country: AM | Confidence: 100% | Reason: Malicious Activity
+217.113.7.142 | Country: AM | Confidence: 100% | Reason: Malicious Activity
+91.205.197.20 | Country: AM | Confidence: 100% | Reason: Malicious Activity
+217.113.13.23 | Country: AM | Confidence: 100% | Reason: Malicious Activity
+45.159.75.222 | Country: AM | Confidence: 100% | Reason: Malicious Activity
+217.113.4.131 | Country: AM | Confidence: 100% | Reason: Malicious Activity
