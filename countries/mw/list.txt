@@ -1,2 +1,3 @@
-41.70.94.2 | Country: MW | Confidence: 100% | Reason: Malicious Activity
-41.77.8.164 | Country: MW | Confidence: 100% | Reason: Malicious Activity
+41.75.114.30 | Country: MW | Confidence: 100% | Reason: Malicious Activity
+168.253.224.242 | Country: MW | Confidence: 100% | Reason: Malicious Activity
+196.11.86.134 | Country: MW | Confidence: 100% | Reason: Malicious Activity
