@@ -1,2 +1,2 @@
+119.40.96.89 | Country: MN | Confidence: 100% | Reason: Malicious Activity
 192.82.90.142 | Country: MN | Confidence: 100% | Reason: Malicious Activity
-103.11.193.73 | Country: MN | Confidence: 100% | Reason: Malicious Activity
