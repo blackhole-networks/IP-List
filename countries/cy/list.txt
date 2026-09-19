@@ -1,1 +1,2 @@
-212.31.100.230 | Country: CY | Confidence: 100% | Reason: Malicious Activity
+109.110.243.108 | Country: CY | Confidence: 100% | Reason: Malicious Activity
+91.184.197.54 | Country: CY | Confidence: 100% | Reason: Malicious Activity
