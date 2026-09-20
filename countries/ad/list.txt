@@ -1,2 +1,1 @@
-45.148.10.217 | Country: AD | Confidence: 100% | Reason: Malicious Activity
-195.178.110.135 | Country: AD | Confidence: 100% | Reason: Malicious Activity
+93.123.109.53 | Country: AD | Confidence: 100% | Reason: Malicious Activity
