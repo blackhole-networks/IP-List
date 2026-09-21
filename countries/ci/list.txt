@@ -1,2 +1,4 @@
-160.154.84.189 | Country: CI | Confidence: 100% | Reason: Malicious Activity
+102.142.240.141 | Country: CI | Confidence: 100% | Reason: Malicious Activity
+160.120.117.244 | Country: CI | Confidence: 100% | Reason: Malicious Activity
 160.155.16.199 | Country: CI | Confidence: 100% | Reason: Malicious Activity
+160.154.84.189 | Country: CI | Confidence: 100% | Reason: Malicious Activity
