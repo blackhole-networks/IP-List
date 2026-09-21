@@ -1,4 +1,5 @@
-41.111.227.10 | Country: DZ | Confidence: 100% | Reason: Malicious Activity
-41.111.227.78 | Country: DZ | Confidence: 100% | Reason: Malicious Activity
-154.241.42.197 | Country: DZ | Confidence: 100% | Reason: Malicious Activity
+41.111.172.25 | Country: DZ | Confidence: 100% | Reason: Malicious Activity
 105.96.13.6 | Country: DZ | Confidence: 100% | Reason: Malicious Activity
+41.111.227.10 | Country: DZ | Confidence: 100% | Reason: Malicious Activity
+154.241.55.23 | Country: DZ | Confidence: 100% | Reason: Malicious Activity
+129.45.84.193 | Country: DZ | Confidence: 100% | Reason: Malicious Activity
