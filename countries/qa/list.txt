@@ -1,2 +1,1 @@
-37.210.219.211 | Country: QA | Confidence: 100% | Reason: Malicious Activity
-178.153.13.180 | Country: QA | Confidence: 100% | Reason: Malicious Activity
+178.153.174.27 | Country: QA | Confidence: 100% | Reason: Malicious Activity
