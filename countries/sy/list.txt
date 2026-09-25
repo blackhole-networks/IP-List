@@ -1,2 +1,1 @@
-188.132.150.51 | Country: SY | Confidence: 100% | Reason: Malicious Activity
-185.200.37.106 | Country: SY | Confidence: 100% | Reason: Malicious Activity
+31.9.50.79 | Country: SY | Confidence: 100% | Reason: Malicious Activity
