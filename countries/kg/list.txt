@@ -1,2 +1,4 @@
-109.71.229.178 | Country: KG | Confidence: 100% | Reason: Malicious Activity
-178.217.173.50 | Country: KG | Confidence: 100% | Reason: Malicious Activity
+85.113.1.243 | Country: KG | Confidence: 100% | Reason: Malicious Activity
+212.112.98.73 | Country: KG | Confidence: 100% | Reason: Malicious Activity
+77.235.20.52 | Country: KG | Confidence: 100% | Reason: Malicious Activity
+212.112.122.79 | Country: KG | Confidence: 100% | Reason: Malicious Activity
