@@ -1,3 +1,4 @@
 122.255.14.70 | Country: LK | Confidence: 100% | Reason: Malicious Activity
 220.247.224.226 | Country: LK | Confidence: 100% | Reason: Malicious Activity
 124.43.79.65 | Country: LK | Confidence: 100% | Reason: Malicious Activity
+124.43.68.3 | Country: LK | Confidence: 100% | Reason: Malicious Activity
