@@ -1,10 +1,6 @@
-78.84.41.139 | Country: LV | Confidence: 100% | Reason: Malicious Activity
-217.60.1.148 | Country: LV | Confidence: 100% | Reason: Malicious Activity
-213.176.24.46 | Country: LV | Confidence: 100% | Reason: Malicious Activity
-185.176.220.144 | Country: LV | Confidence: 100% | Reason: Malicious Activity
-31.57.27.21 | Country: LV | Confidence: 100% | Reason: Malicious Activity
+95.68.34.85 | Country: LV | Confidence: 100% | Reason: Malicious Activity
+196.196.53.53 | Country: LV | Confidence: 100% | Reason: Malicious Activity
 31.57.62.245 | Country: LV | Confidence: 100% | Reason: Malicious Activity
-188.92.77.12 | Country: LV | Confidence: 100% | Reason: Malicious Activity
-185.92.183.105 | Country: LV | Confidence: 100% | Reason: Malicious Activity
-195.123.210.209 | Country: LV | Confidence: 100% | Reason: Malicious Activity
 95.182.80.121 | Country: LV | Confidence: 100% | Reason: Malicious Activity
+217.60.1.148 | Country: LV | Confidence: 100% | Reason: Malicious Activity
+31.57.27.21 | Country: LV | Confidence: 100% | Reason: Malicious Activity
