@@ -1,2 +1,6 @@
-82.86.78.22 | Country: VE | Confidence: 100% | Reason: Malicious Activity
+201.249.69.50 | Country: VE | Confidence: 100% | Reason: Malicious Activity
+153.51.231.191 | Country: VE | Confidence: 100% | Reason: Malicious Activity
+190.6.32.107 | Country: VE | Confidence: 100% | Reason: Malicious Activity
 201.249.192.30 | Country: VE | Confidence: 100% | Reason: Malicious Activity
+38.137.236.60 | Country: VE | Confidence: 100% | Reason: Malicious Activity
+181.225.50.2 | Country: VE | Confidence: 100% | Reason: Malicious Activity
