@@ -1,2 +1,1 @@
-185.97.94.184 | Country: LB | Confidence: 100% | Reason: Malicious Activity
 109.233.21.109 | Country: LB | Confidence: 100% | Reason: Malicious Activity
