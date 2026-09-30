@@ -1,1 +1,2 @@
-213.6.115.195 | Country: PS | Confidence: 100% | Reason: Malicious Activity
+82.213.47.180 | Country: PS | Confidence: 100% | Reason: Malicious Activity
+213.6.101.83 | Country: PS | Confidence: 100% | Reason: Malicious Activity
