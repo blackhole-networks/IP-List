@@ -1,2 +1,2 @@
-194.204.111.178 | Country: MT | Confidence: 100% | Reason: Malicious Activity
-77.25.143.141 | Country: MT | Confidence: 100% | Reason: Malicious Activity
+77.71.192.220 | Country: MT | Confidence: 100% | Reason: Malicious Activity
+92.251.124.73 | Country: MT | Confidence: 100% | Reason: Malicious Activity
