@@ -1,1 +1,2 @@
+77.221.0.72 | Country: BA | Confidence: 100% | Reason: Malicious Activity
 80.65.90.155 | Country: BA | Confidence: 100% | Reason: Malicious Activity
