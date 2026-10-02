@@ -1,1 +1,3 @@
+82.194.44.110 | Country: BH | Confidence: 100% | Reason: Malicious Activity
+80.95.211.54 | Country: BH | Confidence: 100% | Reason: Malicious Activity
 87.252.100.19 | Country: BH | Confidence: 100% | Reason: Malicious Activity
