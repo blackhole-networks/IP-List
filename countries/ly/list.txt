@@ -1,3 +1,2 @@
-102.38.3.107 | Country: LY | Confidence: 100% | Reason: Malicious Activity
 102.211.7.162 | Country: LY | Confidence: 100% | Reason: Malicious Activity
 154.73.110.151 | Country: LY | Confidence: 100% | Reason: Malicious Activity
