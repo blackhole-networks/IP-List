@@ -1,1 +1,2 @@
 85.113.1.243 | Country: KG | Confidence: 100% | Reason: Malicious Activity
+212.112.98.73 | Country: KG | Confidence: 100% | Reason: Malicious Activity
