@@ -1,3 +1,7 @@
+31.56.117.142 | Country: LV | Confidence: 100% | Reason: Malicious Activity
 31.57.27.21 | Country: LV | Confidence: 100% | Reason: Malicious Activity
-195.135.255.98 | Country: LV | Confidence: 100% | Reason: Malicious Activity
+31.57.62.245 | Country: LV | Confidence: 100% | Reason: Malicious Activity
+31.76.104.200 | Country: LV | Confidence: 100% | Reason: Malicious Activity
+196.196.52.6 | Country: LV | Confidence: 100% | Reason: Malicious Activity
 31.56.28.247 | Country: LV | Confidence: 100% | Reason: Malicious Activity
+185.176.220.116 | Country: LV | Confidence: 100% | Reason: Malicious Activity
