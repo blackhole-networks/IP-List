@@ -1,6 +1,2 @@
-124.108.50.136 | Country: KH | Confidence: 100% | Reason: Malicious Activity
 202.79.29.108 | Country: KH | Confidence: 100% | Reason: Malicious Activity
-120.136.25.236 | Country: KH | Confidence: 100% | Reason: Malicious Activity
 111.90.180.172 | Country: KH | Confidence: 100% | Reason: Malicious Activity
-167.179.14.69 | Country: KH | Confidence: 100% | Reason: Malicious Activity
-119.15.84.74 | Country: KH | Confidence: 100% | Reason: Malicious Activity
