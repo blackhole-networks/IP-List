@@ -1,1 +1,2 @@
-102.216.169.161 | Country: AO | Confidence: 100% | Reason: Malicious Activity
+154.127.254.98 | Country: AO | Confidence: 100% | Reason: Malicious Activity
+102.64.60.6 | Country: AO | Confidence: 100% | Reason: Malicious Activity
