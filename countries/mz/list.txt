@@ -1,1 +1,2 @@
-197.219.208.58 | Country: MZ | Confidence: 100% | Reason: Malicious Activity
+197.249.255.56 | Country: MZ | Confidence: 100% | Reason: Malicious Activity
+197.219.208.38 | Country: MZ | Confidence: 100% | Reason: Malicious Activity
