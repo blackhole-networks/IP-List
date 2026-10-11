@@ -1,1 +1,2 @@
-72.50.2.45 | Country: PR | Confidence: 100% | Reason: Malicious Activity
+62.164.177.222 | Country: PR | Confidence: 100% | Reason: Malicious Activity
+64.89.15.173 | Country: PR | Confidence: 100% | Reason: Malicious Activity
