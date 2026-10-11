@@ -1,5 +1,4 @@
-154.14.31.10 | Country: DK | Confidence: 100% | Reason: Malicious Activity
-9.205.105.38 | Country: DK | Confidence: 100% | Reason: Malicious Activity
-185.129.61.5 | Country: DK | Confidence: 100% | Reason: Malicious Activity
 80.209.7.29 | Country: DK | Confidence: 100% | Reason: Malicious Activity
-80.208.68.162 | Country: DK | Confidence: 100% | Reason: Malicious Activity
+154.14.31.10 | Country: DK | Confidence: 100% | Reason: Malicious Activity
+185.129.61.8 | Country: DK | Confidence: 100% | Reason: Malicious Activity
+93.161.42.190 | Country: DK | Confidence: 100% | Reason: Malicious Activity
