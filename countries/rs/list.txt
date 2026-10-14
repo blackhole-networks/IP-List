@@ -1,7 +1,4 @@
 77.105.37.219 | Country: RS | Confidence: 100% | Reason: Malicious Activity
-178.149.91.23 | Country: RS | Confidence: 100% | Reason: Malicious Activity
-77.46.136.200 | Country: RS | Confidence: 100% | Reason: Malicious Activity
-109.206.115.23 | Country: RS | Confidence: 100% | Reason: Malicious Activity
 5.252.236.253 | Country: RS | Confidence: 100% | Reason: Malicious Activity
-141.98.103.251 | Country: RS | Confidence: 100% | Reason: Malicious Activity
-160.99.13.185 | Country: RS | Confidence: 100% | Reason: Malicious Activity
+89.216.75.80 | Country: RS | Confidence: 100% | Reason: Malicious Activity
+109.207.33.253 | Country: RS | Confidence: 100% | Reason: Malicious Activity
