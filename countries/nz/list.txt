@@ -1,2 +1,2 @@
-210.54.120.219 | Country: NZ | Confidence: 100% | Reason: Malicious Activity
-38.236.183.9 | Country: NZ | Confidence: 100% | Reason: Malicious Activity
+103.85.28.70 | Country: NZ | Confidence: 100% | Reason: Malicious Activity
+47.72.224.157 | Country: NZ | Confidence: 100% | Reason: Malicious Activity
