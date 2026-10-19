@@ -1,3 +1,1 @@
-185.40.123.252 | Country: IS | Confidence: 100% | Reason: Malicious Activity
 185.146.234.178 | Country: IS | Confidence: 100% | Reason: Malicious Activity
-82.221.139.123 | Country: IS | Confidence: 100% | Reason: Malicious Activity
