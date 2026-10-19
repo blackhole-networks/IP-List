@@ -1,5 +1,7 @@
+152.53.95.66 | Country: AT | Confidence: 100% | Reason: Malicious Activity
+89.144.194.250 | Country: AT | Confidence: 100% | Reason: Malicious Activity
 150.251.225.170 | Country: AT | Confidence: 100% | Reason: Malicious Activity
-152.53.46.2 | Country: AT | Confidence: 100% | Reason: Malicious Activity
-68.210.42.28 | Country: AT | Confidence: 100% | Reason: Malicious Activity
-46.124.147.185 | Country: AT | Confidence: 100% | Reason: Malicious Activity
 68.210.120.110 | Country: AT | Confidence: 100% | Reason: Malicious Activity
+109.70.100.4 | Country: AT | Confidence: 100% | Reason: Malicious Activity
+178.191.208.158 | Country: AT | Confidence: 100% | Reason: Malicious Activity
+109.70.100.7 | Country: AT | Confidence: 100% | Reason: Malicious Activity
