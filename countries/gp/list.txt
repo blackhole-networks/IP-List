@@ -1,1 +1,2 @@
-107.191.213.144 | Country: GP | Confidence: 100% | Reason: Malicious Activity
+90.15.179.194 | Country: GP | Confidence: 100% | Reason: Malicious Activity
+90.15.87.228 | Country: GP | Confidence: 100% | Reason: Malicious Activity
