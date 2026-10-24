@@ -1,2 +1,1 @@
 197.227.8.186 | Country: MU | Confidence: 100% | Reason: Malicious Activity
-196.46.48.226 | Country: MU | Confidence: 100% | Reason: Malicious Activity
