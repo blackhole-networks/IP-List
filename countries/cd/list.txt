@@ -1,4 +1,3 @@
-169.239.75.138 | Country: CD | Confidence: 100% | Reason: Malicious Activity
 41.77.220.188 | Country: CD | Confidence: 100% | Reason: Malicious Activity
 102.216.240.61 | Country: CD | Confidence: 100% | Reason: Malicious Activity
-102.223.209.43 | Country: CD | Confidence: 100% | Reason: Malicious Activity
+169.239.75.138 | Country: CD | Confidence: 100% | Reason: Malicious Activity
