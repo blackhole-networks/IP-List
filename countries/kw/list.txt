@@ -1,3 +1,2 @@
+94.129.83.96 | Country: KW | Confidence: 100% | Reason: Malicious Activity
 62.150.237.107 | Country: KW | Confidence: 100% | Reason: Malicious Activity
-78.89.154.59 | Country: KW | Confidence: 100% | Reason: Malicious Activity
-62.150.237.103 | Country: KW | Confidence: 100% | Reason: Malicious Activity
