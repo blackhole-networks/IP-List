@@ -1,5 +1,3 @@
-103.203.134.41 | Country: MM | Confidence: 100% | Reason: Malicious Activity
 37.111.53.110 | Country: MM | Confidence: 100% | Reason: Malicious Activity
-103.203.135.39 | Country: MM | Confidence: 100% | Reason: Malicious Activity
-103.57.204.4 | Country: MM | Confidence: 100% | Reason: Malicious Activity
-116.206.193.88 | Country: MM | Confidence: 100% | Reason: Malicious Activity
+103.83.190.126 | Country: MM | Confidence: 100% | Reason: Malicious Activity
+116.206.193.18 | Country: MM | Confidence: 100% | Reason: Malicious Activity
