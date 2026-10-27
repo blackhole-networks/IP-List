@@ -1,3 +1,5 @@
-45.172.152.74 | Country: DO | Confidence: 100% | Reason: Malicious Activity
+168.243.76.138 | Country: DO | Confidence: 100% | Reason: Malicious Activity
+181.37.138.153 | Country: DO | Confidence: 100% | Reason: Malicious Activity
 186.120.179.222 | Country: DO | Confidence: 100% | Reason: Malicious Activity
-186.1.72.50 | Country: DO | Confidence: 100% | Reason: Malicious Activity
+45.172.152.74 | Country: DO | Confidence: 100% | Reason: Malicious Activity
+179.53.218.218 | Country: DO | Confidence: 100% | Reason: Malicious Activity
