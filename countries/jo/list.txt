@@ -1,1 +1,1 @@
-46.32.110.120 | Country: JO | Confidence: 100% | Reason: Malicious Activity
+92.253.102.43 | Country: JO | Confidence: 100% | Reason: Malicious Activity
