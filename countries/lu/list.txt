@@ -1,2 +1,1 @@
-145.223.8.13 | Country: LU | Confidence: 100% | Reason: Malicious Activity
-45.132.195.112 | Country: LU | Confidence: 100% | Reason: Malicious Activity
+88.207.210.23 | Country: LU | Confidence: 100% | Reason: Malicious Activity
