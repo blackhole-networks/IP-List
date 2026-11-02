@@ -1,11 +1,1 @@
-180.149.126.14 | Country: MN | Confidence: 100% | Reason: Malicious Activity
-180.149.125.172 | Country: MN | Confidence: 100% | Reason: Malicious Activity
-180.149.125.163 | Country: MN | Confidence: 100% | Reason: Malicious Activity
-180.149.125.166 | Country: MN | Confidence: 100% | Reason: Malicious Activity
-180.149.126.7 | Country: MN | Confidence: 100% | Reason: Malicious Activity
-180.149.125.169 | Country: MN | Confidence: 100% | Reason: Malicious Activity
-180.149.125.171 | Country: MN | Confidence: 100% | Reason: Malicious Activity
-180.149.126.9 | Country: MN | Confidence: 100% | Reason: Malicious Activity
-180.149.125.164 | Country: MN | Confidence: 100% | Reason: Malicious Activity
-180.149.125.170 | Country: MN | Confidence: 100% | Reason: Malicious Activity
-180.149.125.165 | Country: MN | Confidence: 100% | Reason: Malicious Activity
+122.201.19.8 | Country: MN | Confidence: 100% | Reason: Malicious Activity
