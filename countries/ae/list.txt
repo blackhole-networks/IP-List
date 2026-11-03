@@ -1,11 +1,8 @@
-74.162.157.79 | Country: AE | Confidence: 100% | Reason: Malicious Activity
 20.46.43.126 | Country: AE | Confidence: 100% | Reason: Malicious Activity
-152.32.181.108 | Country: AE | Confidence: 100% | Reason: Malicious Activity
-74.162.106.25 | Country: AE | Confidence: 100% | Reason: Malicious Activity
-165.154.12.38 | Country: AE | Confidence: 100% | Reason: Malicious Activity
-217.165.166.13 | Country: AE | Confidence: 100% | Reason: Malicious Activity
-47.91.125.252 | Country: AE | Confidence: 100% | Reason: Malicious Activity
+94.205.250.78 | Country: AE | Confidence: 100% | Reason: Malicious Activity
+20.74.238.220 | Country: AE | Confidence: 100% | Reason: Malicious Activity
 94.204.5.49 | Country: AE | Confidence: 100% | Reason: Malicious Activity
-20.233.250.77 | Country: AE | Confidence: 100% | Reason: Malicious Activity
-165.154.12.127 | Country: AE | Confidence: 100% | Reason: Malicious Activity
-213.42.31.237 | Country: AE | Confidence: 100% | Reason: Malicious Activity
+20.74.254.174 | Country: AE | Confidence: 100% | Reason: Malicious Activity
+139.185.55.154 | Country: AE | Confidence: 100% | Reason: Malicious Activity
+165.154.12.137 | Country: AE | Confidence: 100% | Reason: Malicious Activity
+83.110.148.61 | Country: AE | Confidence: 100% | Reason: Malicious Activity
