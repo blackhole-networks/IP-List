@@ -1,8 +1,6 @@
-216.147.123.14 | Country: AZ | Confidence: 100% | Reason: Malicious Activity
-158.181.36.161 | Country: AZ | Confidence: 100% | Reason: Malicious Activity
-31.171.125.179 | Country: AZ | Confidence: 100% | Reason: Malicious Activity
 94.20.62.126 | Country: AZ | Confidence: 100% | Reason: Malicious Activity
-194.39.243.30 | Country: AZ | Confidence: 100% | Reason: Malicious Activity
-109.237.113.108 | Country: AZ | Confidence: 100% | Reason: Malicious Activity
-80.69.55.177 | Country: AZ | Confidence: 100% | Reason: Malicious Activity
+109.237.113.49 | Country: AZ | Confidence: 100% | Reason: Malicious Activity
+216.147.123.170 | Country: AZ | Confidence: 100% | Reason: Malicious Activity
+62.212.229.55 | Country: AZ | Confidence: 100% | Reason: Malicious Activity
 185.143.197.45 | Country: AZ | Confidence: 100% | Reason: Malicious Activity
+185.47.6.138 | Country: AZ | Confidence: 100% | Reason: Malicious Activity
