@@ -1,13 +1,5 @@
-185.12.59.118 | Country: NO | Confidence: 100% | Reason: Malicious Activity
-185.243.218.232 | Country: NO | Confidence: 100% | Reason: Malicious Activity
-85.165.130.77 | Country: NO | Confidence: 100% | Reason: Malicious Activity
-193.90.12.122 | Country: NO | Confidence: 100% | Reason: Malicious Activity
+20.251.194.156 | Country: NO | Confidence: 100% | Reason: Malicious Activity
 87.120.104.79 | Country: NO | Confidence: 100% | Reason: Malicious Activity
-193.200.221.85 | Country: NO | Confidence: 100% | Reason: Malicious Activity
-185.243.218.231 | Country: NO | Confidence: 100% | Reason: Malicious Activity
-85.165.94.212 | Country: NO | Confidence: 100% | Reason: Malicious Activity
-87.120.104.29 | Country: NO | Confidence: 100% | Reason: Malicious Activity
-79.161.110.92 | Country: NO | Confidence: 100% | Reason: Malicious Activity
-193.90.12.230 | Country: NO | Confidence: 100% | Reason: Malicious Activity
-81.167.26.57 | Country: NO | Confidence: 100% | Reason: Malicious Activity
-88.88.155.138 | Country: NO | Confidence: 100% | Reason: Malicious Activity
+185.12.59.118 | Country: NO | Confidence: 100% | Reason: Malicious Activity
+88.88.246.239 | Country: NO | Confidence: 100% | Reason: Malicious Activity
+95.173.205.137 | Country: NO | Confidence: 100% | Reason: Malicious Activity
