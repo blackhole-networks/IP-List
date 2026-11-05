@@ -1,1 +1,2 @@
-190.86.199.171 | Country: SV | Confidence: 100% | Reason: Malicious Activity
+138.99.0.21 | Country: SV | Confidence: 100% | Reason: Malicious Activity
+190.120.3.19 | Country: SV | Confidence: 100% | Reason: Malicious Activity
