@@ -1,8 +1,3 @@
-34.18.212.164 | Country: QA | Confidence: 100% | Reason: Malicious Activity
-34.18.90.38 | Country: QA | Confidence: 100% | Reason: Malicious Activity
-176.202.109.188 | Country: QA | Confidence: 100% | Reason: Malicious Activity
-34.18.112.49 | Country: QA | Confidence: 100% | Reason: Malicious Activity
-34.18.13.93 | Country: QA | Confidence: 100% | Reason: Malicious Activity
-34.18.212.130 | Country: QA | Confidence: 100% | Reason: Malicious Activity
-34.18.214.6 | Country: QA | Confidence: 100% | Reason: Malicious Activity
-34.18.39.201 | Country: QA | Confidence: 100% | Reason: Malicious Activity
+34.18.190.249 | Country: QA | Confidence: 100% | Reason: Malicious Activity
+34.18.207.181 | Country: QA | Confidence: 100% | Reason: Malicious Activity
+34.18.145.61 | Country: QA | Confidence: 100% | Reason: Malicious Activity
