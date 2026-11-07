@@ -1,5 +1,1 @@
-136.228.161.66 | Country: MM | Confidence: 100% | Reason: Malicious Activity
 103.233.206.154 | Country: MM | Confidence: 100% | Reason: Malicious Activity
-180.235.118.50 | Country: MM | Confidence: 100% | Reason: Malicious Activity
-116.206.193.92 | Country: MM | Confidence: 100% | Reason: Malicious Activity
-116.206.193.37 | Country: MM | Confidence: 100% | Reason: Malicious Activity
