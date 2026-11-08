@@ -1,3 +1,6 @@
+181.78.95.49 | Country: PY | Confidence: 100% | Reason: Malicious Activity
+190.128.171.14 | Country: PY | Confidence: 100% | Reason: Malicious Activity
 181.123.62.21 | Country: PY | Confidence: 100% | Reason: Malicious Activity
 181.122.63.248 | Country: PY | Confidence: 100% | Reason: Malicious Activity
-190.128.171.14 | Country: PY | Confidence: 100% | Reason: Malicious Activity
+38.52.132.3 | Country: PY | Confidence: 100% | Reason: Malicious Activity
+143.202.208.242 | Country: PY | Confidence: 100% | Reason: Malicious Activity
