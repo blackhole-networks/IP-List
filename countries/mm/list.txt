@@ -1,5 +1,3 @@
+136.228.161.66 | Country: MM | Confidence: 100% | Reason: Malicious Activity
 103.203.134.45 | Country: MM | Confidence: 100% | Reason: Malicious Activity
 103.233.206.154 | Country: MM | Confidence: 100% | Reason: Malicious Activity
-116.206.193.40 | Country: MM | Confidence: 100% | Reason: Malicious Activity
-103.57.207.5 | Country: MM | Confidence: 100% | Reason: Malicious Activity
-103.203.134.41 | Country: MM | Confidence: 100% | Reason: Malicious Activity
