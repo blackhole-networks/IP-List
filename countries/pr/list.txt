@@ -1,1 +1,2 @@
-66.50.28.233 | Country: PR | Confidence: 100% | Reason: Malicious Activity
+38.50.71.228 | Country: PR | Confidence: 100% | Reason: Malicious Activity
+70.45.121.148 | Country: PR | Confidence: 100% | Reason: Malicious Activity
