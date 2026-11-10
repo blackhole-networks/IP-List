@@ -1,7 +1,10 @@
-38.224.80.34 | Country: EC | Confidence: 100% | Reason: Malicious Activity
-45.236.142.225 | Country: EC | Confidence: 100% | Reason: Malicious Activity
-177.53.215.134 | Country: EC | Confidence: 100% | Reason: Malicious Activity
+186.4.135.194 | Country: EC | Confidence: 100% | Reason: Malicious Activity
+131.196.112.211 | Country: EC | Confidence: 100% | Reason: Malicious Activity
+45.163.207.26 | Country: EC | Confidence: 100% | Reason: Malicious Activity
+181.188.237.220 | Country: EC | Confidence: 100% | Reason: Malicious Activity
 186.68.83.105 | Country: EC | Confidence: 100% | Reason: Malicious Activity
-190.152.215.85 | Country: EC | Confidence: 100% | Reason: Malicious Activity
-157.100.63.131 | Country: EC | Confidence: 100% | Reason: Malicious Activity
-45.225.47.25 | Country: EC | Confidence: 100% | Reason: Malicious Activity
+38.19.76.158 | Country: EC | Confidence: 100% | Reason: Malicious Activity
+181.175.139.6 | Country: EC | Confidence: 100% | Reason: Malicious Activity
+186.68.83.104 | Country: EC | Confidence: 100% | Reason: Malicious Activity
+181.188.237.215 | Country: EC | Confidence: 100% | Reason: Malicious Activity
+190.107.236.226 | Country: EC | Confidence: 100% | Reason: Malicious Activity
