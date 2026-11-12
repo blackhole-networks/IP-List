@@ -1,2 +1,6 @@
-37.157.111.122 | Country: EE | Confidence: 100% | Reason: Malicious Activity
+45.83.181.103 | Country: EE | Confidence: 100% | Reason: Malicious Activity
+45.83.182.106 | Country: EE | Confidence: 100% | Reason: Malicious Activity
 37.157.91.62 | Country: EE | Confidence: 100% | Reason: Malicious Activity
+85.29.246.199 | Country: EE | Confidence: 100% | Reason: Malicious Activity
+37.157.111.122 | Country: EE | Confidence: 100% | Reason: Malicious Activity
+95.85.224.75 | Country: EE | Confidence: 100% | Reason: Malicious Activity
