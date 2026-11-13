@@ -1,3 +1,1 @@
 46.199.232.164 | Country: CY | Confidence: 100% | Reason: Malicious Activity
-212.108.143.200 | Country: CY | Confidence: 100% | Reason: Malicious Activity
-62.228.156.152 | Country: CY | Confidence: 100% | Reason: Malicious Activity
