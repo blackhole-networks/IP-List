@@ -1,12 +1,9 @@
-179.6.6.141 | Country: PE | Confidence: 100% | Reason: Malicious Activity
+179.6.37.126 | Country: PE | Confidence: 100% | Reason: Malicious Activity
 200.37.103.36 | Country: PE | Confidence: 100% | Reason: Malicious Activity
-190.223.60.209 | Country: PE | Confidence: 100% | Reason: Malicious Activity
 179.6.164.188 | Country: PE | Confidence: 100% | Reason: Malicious Activity
-200.62.234.117 | Country: PE | Confidence: 100% | Reason: Malicious Activity
+190.120.229.98 | Country: PE | Confidence: 100% | Reason: Malicious Activity
+190.120.229.2 | Country: PE | Confidence: 100% | Reason: Malicious Activity
 190.119.63.81 | Country: PE | Confidence: 100% | Reason: Malicious Activity
-200.107.163.195 | Country: PE | Confidence: 100% | Reason: Malicious Activity
-38.25.80.120 | Country: PE | Confidence: 100% | Reason: Malicious Activity
-190.216.181.167 | Country: PE | Confidence: 100% | Reason: Malicious Activity
 45.170.50.3 | Country: PE | Confidence: 100% | Reason: Malicious Activity
-190.119.63.98 | Country: PE | Confidence: 100% | Reason: Malicious Activity
-181.67.238.76 | Country: PE | Confidence: 100% | Reason: Malicious Activity
+38.25.80.120 | Country: PE | Confidence: 100% | Reason: Malicious Activity
+209.61.122.245 | Country: PE | Confidence: 100% | Reason: Malicious Activity
