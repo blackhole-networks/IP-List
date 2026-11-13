@@ -1,0 +1,11 @@
+103.47.145.71 | Country: VG | Confidence: 100% | Reason: Malicious Activity
+103.47.145.81 | Country: VG | Confidence: 100% | Reason: Malicious Activity
+103.47.145.86 | Country: VG | Confidence: 100% | Reason: Malicious Activity
+103.47.145.89 | Country: VG | Confidence: 100% | Reason: Malicious Activity
+103.47.145.90 | Country: VG | Confidence: 100% | Reason: Malicious Activity
+103.47.145.78 | Country: VG | Confidence: 100% | Reason: Malicious Activity
+103.47.145.92 | Country: VG | Confidence: 100% | Reason: Malicious Activity
+85.155.14.60 | Country: VG | Confidence: 100% | Reason: Malicious Activity
+103.47.145.87 | Country: VG | Confidence: 100% | Reason: Malicious Activity
+103.47.145.77 | Country: VG | Confidence: 100% | Reason: Malicious Activity
+85.155.15.144 | Country: VG | Confidence: 100% | Reason: Malicious Activity
