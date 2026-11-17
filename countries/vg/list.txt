@@ -1,3 +1,1 @@
-85.155.15.144 | Country: VG | Confidence: 100% | Reason: Malicious Activity
-85.155.15.10 | Country: VG | Confidence: 100% | Reason: Malicious Activity
 85.155.14.60 | Country: VG | Confidence: 100% | Reason: Malicious Activity
