@@ -1,1 +1,2 @@
-92.142.41.233 | Country: GF | Confidence: 100% | Reason: Malicious Activity
+188.115.114.15 | Country: GF | Confidence: 100% | Reason: Malicious Activity
+92.142.124.181 | Country: GF | Confidence: 100% | Reason: Malicious Activity
