@@ -1,2 +1,1 @@
-46.20.199.222 | Country: TJ | Confidence: 100% | Reason: Malicious Activity
 195.7.15.250 | Country: TJ | Confidence: 100% | Reason: Malicious Activity
