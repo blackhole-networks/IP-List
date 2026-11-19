@@ -1,2 +1,1 @@
-109.61.125.61 | Country: LU | Confidence: 100% | Reason: Malicious Activity
-109.61.46.198 | Country: LU | Confidence: 100% | Reason: Malicious Activity
+92.38.172.10 | Country: LU | Confidence: 100% | Reason: Malicious Activity
