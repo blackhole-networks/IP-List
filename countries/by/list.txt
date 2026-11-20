@@ -1,1 +1,3 @@
 194.158.207.61 | Country: BY | Confidence: 100% | Reason: Malicious Activity
+178.122.90.99 | Country: BY | Confidence: 100% | Reason: Malicious Activity
+178.172.227.124 | Country: BY | Confidence: 100% | Reason: Malicious Activity
