@@ -1,1 +1,2 @@
+62.228.156.152 | Country: CY | Confidence: 100% | Reason: Malicious Activity
 46.199.232.164 | Country: CY | Confidence: 100% | Reason: Malicious Activity
