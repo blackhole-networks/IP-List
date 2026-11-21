@@ -1,8 +1,7 @@
-138.226.239.234 | Country: VU | Confidence: 100% | Reason: Malicious Activity
-138.226.239.233 | Country: VU | Confidence: 100% | Reason: Malicious Activity
-138.226.239.19 | Country: VU | Confidence: 100% | Reason: Malicious Activity
-138.226.239.52 | Country: VU | Confidence: 100% | Reason: Malicious Activity
 138.226.239.53 | Country: VU | Confidence: 100% | Reason: Malicious Activity
-138.226.239.6 | Country: VU | Confidence: 100% | Reason: Malicious Activity
-138.226.239.66 | Country: VU | Confidence: 100% | Reason: Malicious Activity
-138.226.239.54 | Country: VU | Confidence: 100% | Reason: Malicious Activity
+138.226.239.11 | Country: VU | Confidence: 100% | Reason: Malicious Activity
+138.226.239.19 | Country: VU | Confidence: 100% | Reason: Malicious Activity
+138.226.239.34 | Country: VU | Confidence: 100% | Reason: Malicious Activity
+138.226.239.233 | Country: VU | Confidence: 100% | Reason: Malicious Activity
+138.226.239.234 | Country: VU | Confidence: 100% | Reason: Malicious Activity
+138.226.239.22 | Country: VU | Confidence: 100% | Reason: Malicious Activity
