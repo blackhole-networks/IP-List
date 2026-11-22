@@ -1,1 +1,2 @@
-143.105.152.227 | Country: CM | Confidence: 100% | Reason: Malicious Activity
+41.205.77.46 | Country: CM | Confidence: 100% | Reason: Malicious Activity
+195.24.215.70 | Country: CM | Confidence: 100% | Reason: Malicious Activity
