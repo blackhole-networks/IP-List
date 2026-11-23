@@ -6,7 +6,7 @@
 - **Countries Represented**: 135
 - **Fallback Lookups Performed**: 0
 - **Unknown Country IPs**: 0
-- **Last Updated**: 2026-11-23T22:12:53.186Z
+- **Last Updated**: 2026-11-23T22:16:11.605Z
 
 ## Top Countries by IP Count
 1. **United States** (US): 2939 IPs
