@@ -1,1 +1,1 @@
-70.35.130.159 | Country: PR | Confidence: 100% | Reason: Malicious Activity
+72.50.3.96 | Country: PR | Confidence: 100% | Reason: Malicious Activity
