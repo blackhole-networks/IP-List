@@ -1,1 +1,1 @@
-103.209.212.132 | Country: MN | Confidence: 100% | Reason: Malicious Activity
+192.82.65.72 | Country: MN | Confidence: 100% | Reason: Malicious Activity
