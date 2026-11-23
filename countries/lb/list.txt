@@ -1,1 +1,3 @@
+193.227.179.227 | Country: LB | Confidence: 100% | Reason: Malicious Activity
+109.233.21.109 | Country: LB | Confidence: 100% | Reason: Malicious Activity
 185.252.101.78 | Country: LB | Confidence: 100% | Reason: Malicious Activity
