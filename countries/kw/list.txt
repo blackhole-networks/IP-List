@@ -1,4 +1,2 @@
 37.34.181.111 | Country: KW | Confidence: 100% | Reason: Malicious Activity
-94.187.170.252 | Country: KW | Confidence: 100% | Reason: Malicious Activity
-194.176.108.4 | Country: KW | Confidence: 100% | Reason: Malicious Activity
 91.246.14.10 | Country: KW | Confidence: 100% | Reason: Malicious Activity
