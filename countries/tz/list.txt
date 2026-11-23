@@ -1,2 +1,2 @@
-41.93.28.12 | Country: TZ | Confidence: 100% | Reason: Malicious Activity
-41.59.202.241 | Country: TZ | Confidence: 100% | Reason: Malicious Activity
+154.73.171.250 | Country: TZ | Confidence: 100% | Reason: Malicious Activity
+41.59.82.183 | Country: TZ | Confidence: 100% | Reason: Malicious Activity
