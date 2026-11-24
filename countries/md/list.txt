@@ -1,2 +1,2 @@
-92.115.71.93 | Country: MD | Confidence: 100% | Reason: Malicious Activity
-109.185.119.143 | Country: MD | Confidence: 100% | Reason: Malicious Activity
+92.115.75.139 | Country: MD | Confidence: 100% | Reason: Malicious Activity
+87.248.174.91 | Country: MD | Confidence: 100% | Reason: Malicious Activity
