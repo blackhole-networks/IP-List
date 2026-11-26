@@ -1,5 +1,4 @@
-148.101.25.134 | Country: DO | Confidence: 100% | Reason: Malicious Activity
-179.53.125.25 | Country: DO | Confidence: 100% | Reason: Malicious Activity
-45.172.153.100 | Country: DO | Confidence: 100% | Reason: Malicious Activity
-45.172.152.74 | Country: DO | Confidence: 100% | Reason: Malicious Activity
 148.103.9.8 | Country: DO | Confidence: 100% | Reason: Malicious Activity
+45.172.153.100 | Country: DO | Confidence: 100% | Reason: Malicious Activity
+148.101.25.134 | Country: DO | Confidence: 100% | Reason: Malicious Activity
+186.6.118.50 | Country: DO | Confidence: 100% | Reason: Malicious Activity
