@@ -1,6 +1,10 @@
-80.233.12.109 | Country: IE | Confidence: 100% | Reason: Malicious Activity
-20.238.45.239 | Country: IE | Confidence: 100% | Reason: Malicious Activity
-217.183.246.245 | Country: IE | Confidence: 100% | Reason: Malicious Activity
+84.203.123.110 | Country: IE | Confidence: 100% | Reason: Malicious Activity
 4.210.91.174 | Country: IE | Confidence: 100% | Reason: Malicious Activity
+3.255.185.153 | Country: IE | Confidence: 100% | Reason: Malicious Activity
+3.252.159.150 | Country: IE | Confidence: 100% | Reason: Malicious Activity
 98.71.8.129 | Country: IE | Confidence: 100% | Reason: Malicious Activity
-52.209.13.240 | Country: IE | Confidence: 100% | Reason: Malicious Activity
+54.74.94.3 | Country: IE | Confidence: 100% | Reason: Malicious Activity
+20.67.164.8 | Country: IE | Confidence: 100% | Reason: Malicious Activity
+135.236.141.99 | Country: IE | Confidence: 100% | Reason: Malicious Activity
+108.131.72.36 | Country: IE | Confidence: 100% | Reason: Malicious Activity
+3.249.15.40 | Country: IE | Confidence: 100% | Reason: Malicious Activity
