@@ -1,2 +1,1 @@
 154.70.82.206 | Country: TG | Confidence: 100% | Reason: Malicious Activity
-196.171.84.114 | Country: TG | Confidence: 100% | Reason: Malicious Activity
