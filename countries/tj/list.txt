@@ -1,4 +1,1 @@
-45.94.217.53 | Country: TJ | Confidence: 100% | Reason: Malicious Activity
-216.147.121.102 | Country: TJ | Confidence: 100% | Reason: Malicious Activity
-37.98.158.12 | Country: TJ | Confidence: 100% | Reason: Malicious Activity
 195.7.15.250 | Country: TJ | Confidence: 100% | Reason: Malicious Activity
