@@ -1,5 +1,3 @@
 83.235.16.111 | Country: GR | Confidence: 100% | Reason: Malicious Activity
-94.131.141.75 | Country: GR | Confidence: 100% | Reason: Malicious Activity
 83.235.21.125 | Country: GR | Confidence: 100% | Reason: Malicious Activity
-195.20.114.24 | Country: GR | Confidence: 100% | Reason: Malicious Activity
-85.72.252.91 | Country: GR | Confidence: 100% | Reason: Malicious Activity
+94.131.141.75 | Country: GR | Confidence: 100% | Reason: Malicious Activity
