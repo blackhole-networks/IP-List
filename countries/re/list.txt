@@ -1,2 +1,2 @@
-83.198.180.194 | Country: RE | Confidence: 100% | Reason: Malicious Activity
-41.213.141.162 | Country: RE | Confidence: 100% | Reason: Malicious Activity
+102.35.201.78 | Country: RE | Confidence: 100% | Reason: Malicious Activity
+102.213.9.78 | Country: RE | Confidence: 100% | Reason: Malicious Activity
