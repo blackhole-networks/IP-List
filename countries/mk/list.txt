@@ -1,1 +1,2 @@
 185.193.240.246 | Country: MK | Confidence: 100% | Reason: Malicious Activity
+62.162.141.194 | Country: MK | Confidence: 100% | Reason: Malicious Activity
